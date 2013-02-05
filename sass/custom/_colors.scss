@@ -41,3 +41,15 @@
 //$pre-bg: $base03;
 //$pre-border: darken($base02, 5);
 //$pre-color: $base1;
+$oboe-orange: #c64820;
+$oboe-blue: #263d4c;
+$header-bg: image-url("header.png") bottom repeat-x;
+$header-border: lighten($oboe-orange, 15);
+$main-bg: #f9f9f9;
+$page-bg: $main-bg;
+
+body {
+  header > h1 {
+    color: $oboe-orange;
+  }
+}

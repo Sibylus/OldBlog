@@ -15,10 +15,13 @@ $sidebar-width-wide: 300px !default;
 $indented-lists: false !default;
 
 $header-font-size: 1em !default;
-$header-padding-top: 1.5em !default;
-$header-padding-bottom: 1.5em !default;
+// $header-padding-top: 1.5em !default;
+// $header-padding-bottom: 1.5em !default;
+$header-padding-top: 0;
+$header-padding-bottom: 0;
 
 .group { @include pie-clearfix; }
+.container { max-width: $max-width; margin: 0 auto; }
 
 @mixin collapse-sidebar {
   float: none;
@@ -45,7 +48,7 @@ $header-padding-bottom: 1.5em !default;
 
 body {
   -webkit-text-size-adjust: none;
-  max-width: $max-width;
+  // @extend .container;
   position: relative;
   margin: 0 auto;
   > header, > nav, > footer, #content > article, #content > div > article, #content > div > section {
@@ -86,6 +89,20 @@ body {
     font-size: $header-font-size;
     padding-top: $header-padding-top;
     padding-bottom: $header-padding-bottom;
+    div.container {
+      height: 90px;
+      line-height: 105px;
+      a {
+        text-decoration: none;
+        span.logo-caption {
+          font-size: 14px;
+          color: white;
+          position: relative;
+          top: 10px;
+          left: -25px;
+        }
+      }
+    }
   }
 }
 
