@@ -103,3 +103,16 @@ facebook_pagename: Rentobo
 facebook_showfaces: true
 facebook_showstream: false
 facebook_width: 260
+
+# Prose Config
+prose:
+  rooturl: "source"
+  metadata:
+    "source/_posts" |
+    layout: post
+    title: "Title"
+    comments: true
+    categories: 
+    published: true
+    date: CURRENT_DATETIME
+
