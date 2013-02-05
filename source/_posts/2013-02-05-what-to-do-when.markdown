@@ -3,7 +3,7 @@ layout: post
 title: "What to do when you can't fill your vacancies"
 comments: true
 categories: [rental marketing, rental vacancies, resident retention]
-published: true
+published: false
 
 ---
 
@@ -15,7 +15,7 @@ One thing to remember is that a unit is only as valuable as someone is willing t
 
 ### Encourage Lease Renewals
 
-Keeping your tenants happy increases the likelihood they will renew their lease, sparing you the time and cost associated with finding new tenants. The costs associated with turning over a rental property can be significant (lost rent, marketing/broker’s fees, maintenance, etc.) and can possibly exceed $4,000 according to analysis by the National Apartment Association. Timely responses to maintenance requests and convenient perks like online rental payments are ways to improve tenant satisfaction and your bottom line.
+Keeping your tenants happy increases the likelihood they will renew their lease, sparing you the time and cost associated with finding new tenants. The costs associated with turning over a rental property can be significant (lost rent, marketing/broker’s fees, maintenance, etc.) and [can possibly exceed $4,000](http://www.naahq.org/blog/lists/Posts/Post.aspx?ID=222) according to an analysis by the National Apartment Association. Timely responses to maintenance requests and convenient perks like online rental payments are ways to improve tenant satisfaction and your bottom line.
 
 ### Consider an inexpensive update.
 
