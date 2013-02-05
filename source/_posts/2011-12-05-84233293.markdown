@@ -1,0 +1,52 @@
+---
+layout: post
+title: Apartment applications and leases
+published: true
+date: 2011-12-05
+categories:
+- online rental applications
+- online leases
+- san francisco real estate
+- real estate regulations
+comments: true
+---
+
+{% img right http://3.bp.blogspot.com/-MWOmMBZr2dg/TgA6fCFPbcI/AAAAAAAARQ0/qriitvEYbB4/s1600/worried+Eyes01.jpg 262 400 %}
+
+Being an individual owner is not easy. Before you think about renting out your
+place there is the mess of regulations to comply with, and in some
+cities [upwards of 20 governmental agencies administer these regulations][]. For
+some it can seem a lonely task, but you might be surprised how many other small
+landlords there are out there. Individuals own two thirds of the nation’s 26
+million unsubsidized rental units, and over 80 percent of structures with four
+units or less.
+
+Renting out an apartment is not easy either. Owners must worry about property
+maintenance, figuring out what rent to charge, advertising the property,
+screening tenants, and preparing and signing a lease. In San Francisco, vacancy
+rates are so low that owners reportedly are receiving up to [250 applications per listing][].
+That’s a lot of paper to manage! Even before receiving these
+applications, owners have to be careful how they advertise the property, and
+what questions they ask prospective tenants, either on the application or in
+person. For starters, the [Federal Fair Housing Act][] makes it illegal to
+discriminate based on a host of factors - race, color, national origin,
+religion, sex, family status, or disability. But there are state and city laws
+as well. Additionally, brokers maintain lists of [no-no phrases][]. Is your
+place a “bachelor pad” or a “fisherman’s retreat,” in a “traditional
+neighborhood,” “perfect for shares or families”? You might think twice before
+advertising your unit using any of those phrases.
+
+So what’s the solution? What can you do to make the process easier? Rentobo
+simplifies the entire process. Using Rentobo you can post your ad to Craigslist
+with as many photos as you would like, drive prospective tenants to fill out an
+application and do the credit check online without worrying about all the legal
+mumbo-jumbo, and finally have the tenant sign the lease online.
+
+The next time 200 people come to your apartment and want to rent, you can
+welcome them all, and not have to worry about managing all those paper
+applications!
+
+  [upwards of 20 governmental agencies administer these regulations]: http://www.nytimes.com/1998/03/01/realestate/for-the-small-landlord-all-problems-are-big.html?pagewanted=all&src=pm
+  [250 applications per listing]: http://www.nytimes.com/2011/12/02/us/in-apartment-hunt-looking-isnt-free.html?_r=1&src=recg
+  [Federal Fair Housing Act]: http://hud.gov/fairhousing
+  [no-no phrases]: http://www.nytimes.com/2011/03/29/nyregion/29appraisal.html
