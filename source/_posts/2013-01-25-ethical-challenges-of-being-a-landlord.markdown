@@ -53,5 +53,3 @@ know about these changes and hire licensed professionals to make the proper
 updates. Some landlords may be tempted to spend less on a quick-fix, but if the
 building isn’t kept to standard, tenants aren’t safe and you could get into
 legal trouble. Also, it’s unethical.
-
- 

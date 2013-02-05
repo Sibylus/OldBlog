@@ -2,6 +2,7 @@
 layout: post
 title: 5 Critical Steps To Make Your Rental Listing Stand Out
 published: true
+author: "Team Rentobo"
 date: 2012-10-11
 categories:
 - blog
@@ -41,7 +42,7 @@ showing the unit to someone that is truly interested in living there.
 
 ### Every Property Is Unique
 
-{% img right images/45060625-stand-out-from-the-crowd1.jpg %}
+{% img right /images/45060625-stand-out-from-the-crowd1.jpg %}
 
 Alongside photographs, fully describing your unit in the listing assists the
 prospective tenant in making their decision to view the property. This seems

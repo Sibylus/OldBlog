@@ -104,6 +104,13 @@ body {
       }
     }
   }
+
+  div.container > footer {
+    margin-left: 55px;
+    > p {
+      font-size: 14px;
+    }
+  }
 }
 
 #content {
