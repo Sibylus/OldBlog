@@ -20,7 +20,7 @@ before_script:
   - echo -e "Host github.com\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
   # Set deployment target to github pages
   - rake setup_github_pages[$REPO]
-  - git checkout -- _config.html
+  - git checkout -- _config.yml
 script:
   # Generate site
   - rake generate
