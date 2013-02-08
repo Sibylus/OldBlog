@@ -1,8 +1,4 @@
-## Kinda does not works in current Travis :(
-
 # Travis - Octopress Build scheme: http://darvin.github.com/blog/2013/01/13/Prose_Octopress_TravisIO/
-
-
 branches:
   only:
     - source
@@ -25,8 +21,6 @@ script:
   # Generate site
   - rake generate
 after_script:
-  # Workaround for travis not to try run rake on generated site
-  - ! 'echo ''script: "ls *.html"'' > public/.travis.yml'
   # Deploy!
   - rake deploy
 
