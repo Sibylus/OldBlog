@@ -39,6 +39,11 @@ module Jekyll
 
     def render(context)
       if @img
+        # Hack to prefix img src with asset host url for relative paths to avoid hitting the rails reverse proxy
+        if @img['src'] =~ /^\/{1}/
+          asset_path = context.environments.first["site"]["asset"] + @img['src']
+          @img['src'] = asset_path.gsub(/\w(\/{2,})/, "/") # Remove double /'s if concatenated
+        end
         "<img #{@img.collect {|k,v| "#{k}=\"#{v}\"" if v}.join(" ")}>"
       else
         "Error processing input, expected syntax: {% img [class name(s)] [http[s]:/]/path/to/image [width [height]] [title text | \"title text\" [\"alt text\"]] %}"

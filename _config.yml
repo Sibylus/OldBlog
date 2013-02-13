@@ -115,3 +115,5 @@ prose:
       categories: 
       published: true
 
+# Asset Config
+asset: http://sibylus.github.com
