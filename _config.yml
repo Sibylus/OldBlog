@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://www.rentobo.com/blog
-title: "Rentobo Company Blog | Rental Property Software"
-subtitle: "Company news and advice on making the rental process easier."
+title: "The Official Rentobo Blog | Rental Property Software"
+subtitle: "Company Updates and Rental Best Practices"
 author: "Rentobo"
 simple_search: http://google.com/search
-description:
+description: "Rentobo's official blog provides information on reducing vacancies, finding tenants, reducing paperwork and more through its easy-to-use platform and industry knowledge."
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -17,7 +17,7 @@ date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /blog/atom.xml
-subscribe_email:
+subscribe_email: 
 # RSS feeds can list your email address if you like
 email:
 
@@ -36,7 +36,7 @@ category_dir: blog/categories
 markdown: rdiscount
 pygments: false # default python pygments have been replaced by pygments.rb
 
-paginate: 3          # Posts per page on the blog index
+paginate: 4          # Posts per page on the blog index
 # pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
 recent_posts: 5       # Posts in the sidebar Recent Posts section
 excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
@@ -93,7 +93,7 @@ disqus_short_name: rentobo
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-29986764-1
 
 # Facebook Like
 facebook_like: true
@@ -106,16 +106,16 @@ facebook_width: 260
 
 # Prose Config
 prose:
-  rooturl: "source"
+  rooturl: "source/_posts"
   metadata:
     "source/_posts": |
       layout: post
       title: "Title"
       comments: true
-      categories: 
+      categories: [categories, go, here]
       published: true
 
 # Asset Config
 # asset_root_preview: /blog
-asset_root_prod: http://sibylus.github.com
+asset_root_prod: http://oblog.rentobo.com
 asset_root: /blog
