@@ -118,5 +118,4 @@ prose:
 # Asset Config
 # asset_root_preview: /blog
 asset_root_prod: http://oblog.rentobo.com
-
 asset_root: http://oblog.rentobo.com
