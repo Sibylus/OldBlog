@@ -116,4 +116,6 @@ prose:
       published: true
 
 # Asset Config
-asset: http://sibylus.github.com
+# asset_root_preview: /blog
+asset_root_prod: http://sibylus.github.com
+asset_root: /blog

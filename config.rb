@@ -1,9 +1,10 @@
+puts "Loading compass config with environment #{ENV['OCTOPRESS_ENV']}"
 # Require any additional compass plugins here.
 project_type = :stand_alone
 
 # Publishing paths
 http_path = "/blog/"
-http_images_path = "http://sibylus.github.com/images"
+http_images_path = ENV['OCTOPRESS_ENV'] == "preview" ? "/blog/images" : "http://sibylus.github.com/images"
 http_fonts_path = "/blog/fonts"
 css_dir = "public/blog/stylesheets"
 
