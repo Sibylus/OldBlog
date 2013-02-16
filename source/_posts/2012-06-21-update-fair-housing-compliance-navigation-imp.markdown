@@ -10,7 +10,7 @@ Hello all! Again, The Team at Rentobo is constantly looking to improve our site 
 
 ### Fair And Equal Housing
 
-{% img right images/42304096-RentObo_Fair_housing002.png %}
+{% img right /images/42304096-RentObo_Fair_housing002.png %}
 
 [Rentobo.com][] now has various fair and equal housing logos and disclaimers
 throughout the site. We feel this is a necessary step in our continued
