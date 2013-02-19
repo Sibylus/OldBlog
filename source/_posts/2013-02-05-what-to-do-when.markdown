@@ -4,7 +4,7 @@ title: "What to do when you can't fill your vacancies"
 comments: true
 categories: [rental marketing, rental vacancies, resident retention]
 published: true
-
+comments: true
 ---
 
 Managing rental properties can be like running any other business. There are ups and downs in the market, and sometimes a landlord is forced to make adjustments. Life is easy when you have an abundance of eager prospects, but what do you do when interest dries up? Here are some simple fixes that can get your vacancy filled.

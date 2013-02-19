@@ -5,15 +5,10 @@ published: true
 author: "Team Rentobo"
 date: 2012-10-11
 categories:
-- blog
 - listing syndication
-- real estate blog
 - real estate marketing
-- rental
-- rental blog
-- rental market
-- rental property software
-- Rentobo
+- rental listing tips
+comments: true
 ---
 
 As the rental market thrives in the long aftermath of the housing crisis, it can

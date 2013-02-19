@@ -4,14 +4,8 @@ title: 'Ethical Challenges of Being a Landlord'
 published: true
 date: 2013-01-25
 categories:
-- blog
-- listing syndication
-- real estate blog
-- real estate marketing
-- rental
-- rental blog
-- rental market
-- rental property software
+- landlord tips
+comments: true
 posterous\_url: http://blog.rentobo.com/ethical-challenges-of-being-a-landlord
 posterous\_slug: ethical-challenges-of-being-a-landlord
 ---
