@@ -1,2 +1,73 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+@import "colors";
+
+@mixin landing-button-background($base_color, $direction: top) {
+    background: $base_color;
+    @include background(linear-gradient($direction, lighten($base_color, 18%),lighten($base_color, 9%) 25%,$base_color));
+}
+
+@mixin landing-button-background-styles($base_color) {
+  @include landing-button-background($base_color);
+  &:hover { @include landing-button-background(lighten($base_color, 5%)); }
+  &:active { @include landing-button-background($base_color, bottom); }
+    border-color: darken($base_color, 15%);
+}
+
+/*************************************/
+/*          Button Styles            */
+/*************************************/
+.button.oboe-flat {
+    display: inline-block;
+    padding: 3px 20px;
+
+    font: {
+      size: 16px;
+      family:'Open Sans', sans-serif;
+      // weight: 600;
+    }
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+
+    color: white;
+    border: #444 1px solid;
+    @include border-radius(5px);
+
+    cursor: pointer;
+    &:hover { text-decoration: none; color: white; }
+    text-shadow: none;
+
+    // Default button size
+    height: 32px; line-height: 32px;
+
+    // Extra large call-to-action button size
+    &.big { height: 78px; line-height: 78px; }
+
+    // Default (blue) button style
+    @include landing-button-background-styles($oboe-blue);
+
+    // Primary (orange) button style
+    &.primary { @include landing-button-background-styles($oboe-orange); }
+}
+
+// Apply button style to buttons and submits with class 'oboe-flat'
+// without the need to explicitly set the class button
+button, input[type="submit"], input[type="button"] {
+    &.oboe-flat {
+        @extend .button.oboe-flat;
+
+        // Adjust sizes for input (vs. anchor style button) due to sizing discrepancy
+        height: 40px;
+        &.big { height: 86px; }
+    }
+}
+
+// Rentobo specific styles here
+#signupButton {
+  width: 100px;
+  margin: 0 auto;
+  display: block;
+}
+

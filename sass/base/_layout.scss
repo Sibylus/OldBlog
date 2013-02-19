@@ -51,7 +51,7 @@ body {
   // @extend .container;
   position: relative;
   margin: 0 auto;
-  > header, > nav, > footer, #content > article, #content > div > article, #content > div > section {
+  > header, > nav, #content > article, #content > div > article, #content > div > section {
     @extend .group;
     padding-left: $pad-min;
     padding-right: $pad-min;
@@ -89,28 +89,17 @@ body {
     font-size: $header-font-size;
     padding-top: $header-padding-top;
     padding-bottom: $header-padding-bottom;
-    div.container {
-      height: 90px;
-      line-height: 105px;
-      a {
-        text-decoration: none;
-        span.logo-caption {
-          font-size: 14px;
-          color: white;
-          position: relative;
-          top: 10px;
-          left: -25px;
-        }
-      }
-    }
   }
-
-  #main > footer {
-    margin-left: 55px;
-    > p {
-      font-size: 14px;
-    }
+  > footer {
+    margin-top: 335px;
+    margin-bottom: 0;
   }
+  // #main > footer {
+  //   margin-left: 55px;
+  //   > p {
+  //     font-size: 14px;
+  //   }
+  // }
 }
 
 #content {

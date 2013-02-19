@@ -1,18 +1,110 @@
 body > header {
   background: $header-bg;
-  h1 {
-    display: inline-block;
-    margin: 0;
-    a, a:visited, a:hover {
-      color: $title_color;
+  // h1 {
+  //   display: inline-block;
+  //   margin: 0;
+  //   a, a:visited, a:hover {
+  //     color: $title_color;
+  //     text-decoration: none;
+  //   }
+  // }
+  // h2 {
+  //   margin: .2em 0 0;
+  //   @extend .sans;
+  //   font-size: 1em;
+  //   color: $subtitle-color;
+  //   font-weight: normal;
+  // }
+  height: 90px;
+  div.container {
+    line-height: 105px;
+    a {
+      display: block;
+      float: left;
       text-decoration: none;
+      img { width: 9em; }
+      span.logo-caption {
+        font-size: 14px;
+        color: white;
+        position: relative;
+        top: 10px;
+        left: -25px;
+      }
+    }
+  ul.menu {
+    margin: 28px 0 0 0;
+    float: left;
+    line-height: 1em;
+    text-align: center;
+
+    li {
+      display: inline-block;
+      padding: 9px 13px;
+
+      color: white;
+
+      text-align: center;
+      font-family: 'Open Sans', sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+
+      white-space: nowrap;
+      cursor: pointer;
+      -webkit-font-smoothing: antialiased; // helps with dark text on light backgrounds, don't abuse elsewhere
+
+      &.selected {
+        background: #474747; /* #474747 */
+          // border: #d1542f 1px solid; /* #d1542f */
+
+          @include border-radius(6px);
+          @include box-shadow(rgba(0, 0, 0, .3) 0 0 9px 0 inset);
+          @include text-shadow(rgba(0, 0, 0, .5) 2px 2px 3px);
+
+          cursor: default;
+
+          a:hover { 
+            color: white;
+            text-decoration: none;
+            cursor: default;
+          }
+        }
+
+        a {
+          color: white;
+          &:hover {
+            color: #263d4c;
+            text-decoration: none;
+          }
+          display: block; 
+        }
+
+        zoom: 1;
+        *display: inline;
+      }
     }
   }
-  h2 {
-    margin: .2em 0 0;
-    @extend .sans;
-    font-size: 1em;
-    color: $subtitle-color;
-    font-weight: normal;
+}
+.selectnav { display: none; }
+
+@media only screen and (max-width: 768px) {
+  #not-footer {
+    float: left;
+  }
+}
+
+@media only screen and (max-width: 1025px) {
+  .js #nav { display: none; }
+  .js .selectnav {
+    display: block;
+    float: right;
+    margin-top:20px;
+    height: 40px;
+    width: 200px;
+    background: #ddd;
+    border: 1px solid #333;
+    font: {
+      family: 'Open Sans';
+      size: 20px;
+    };
   }
 }

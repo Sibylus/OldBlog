@@ -40,14 +40,14 @@ aside.sidebar {
       margin-bottom: 0;
     }
   }
-  a {
+  a:not(.button) {
     color: inherit;
     @include transition(color .5s);
   }
-  &:hover a {
-    color: $sidebar-link-color;
-    &:hover { color: $sidebar-link-color-hover; }
-  }
+  // &:hover a {
+  //   color: $sidebar-link-color;
+  //   &:hover { color: $sidebar-link-color-hover; }
+  // }
 }
 .aside-alt-link {
   color: $sidebar-link-color-subdued;

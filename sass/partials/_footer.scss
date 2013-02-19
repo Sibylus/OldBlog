@@ -1,19 +1,194 @@
-body > footer {
-  @extend .sans;
-  font-size: .8em;
-  color: $footer-color;
-  text-shadow: lighten($footer-bg, 5) 0 1px;
-  background-color: $footer-bg;
-  @include background($footer-bg-front, $footer-bg-back);
-  border-top: 1px solid $footer-border-top;
-  position: relative;
-  padding-top: 1em;
-  padding-bottom: 1em;
-  margin-bottom: 3em;
-  @include border-bottom-radius(.4em);
-  z-index: 1;
-  a {
-    @include link-colors($footer-link-color, $footer-link-color-hover, $visited: $footer-link-color);
-  }
-  p:last-child { margin-bottom: 0; }
+// body > footer {
+//   @extend .sans;
+//   font-size: .8em;
+//   color: $footer-color;
+//   // text-shadow: lighten($footer-bg, 5) 0 1px;
+//   // background-color: $footer-bg;
+//   // @include background($footer-bg-front, $footer-bg-back);
+//   // border-top: 1px solid $footer-border-top;
+//   position: relative;
+//   // padding-top: 1em;
+//   // padding-bottom: 1em;
+//   // margin-bottom: 3em;
+//   // @include border-bottom-radius(.4em);
+//   // // z-index: 1;
+//   // // a {
+//   // //   @include link-colors($footer-link-color, $footer-link-color-hover, $visited: $footer-link-color);
+//   // // }
+//   // p:last-child { margin-bottom: 0; }
+// }
+// Sticky Footer functionality (requires not-footer wrapper div)
+$page_footer_height: 335px;
+#not-footer {min-height: 100%; max-width: 100%;}
+// #content { overflow: auto; padding-bottom: $page_footer_height; }
+
+#pageFooter {
+    position: relative;
+    margin-top: -$page_footer_height; /* negative value of footer height */
+    height: $page_footer_height;
+    clear:both;
+}
+
+
+
+#pageFooter {
+    // .container { width: 960px; margin: 0 auto 0 auto; }
+
+    .footer1 {
+        height: 269px;
+
+        border-top: #b3b3b3 1px solid;
+
+        background: image-url("footer1.png") top repeat-x;
+        color: white;
+
+        font-size: 14px;
+        font-family: helvetica, arial, sans-serif;
+    }
+
+    .footer2 {
+        height: 65px;
+        line-height: 65px;
+
+        background: image-url("footer2.png") top repeat-x;
+        text-align: right;
+
+        color: white;
+        font-size: 12px;
+    }
+}
+
+/*************************************/
+/*              Footer #1            */
+/*************************************/
+
+#pageFooter h2 {
+    margin-bottom: 5px;
+    color: white;
+    text-align: left;
+
+    font-family: Museo700, georgia, times, serif;
+    font-size: 18px;
+
+    text-shadow: 1px 1px 2px #000000;
+    filter: dropshadow(color=#000000, offx=1, offy=1);
+
+}
+
+#pageFooter div.infoBox {
+    float: left;
+
+    width: 320px;
+    padding: 10px 0 0 10px;
+    margin: 30px 60px 0 0;
+}
+
+#pageFooter div.tweetBox {
+/*float: left;*/
+
+    width: 270px;
+    padding: 10px 0 40px 10px;
+    margin: 30px 60px 0 0;
+}
+
+#pageFooter div.contactBox {
+    float: right;
+
+    width: 215px;
+    padding: 0 15px 0 0;
+    margin: 10px 0 0 0;
+
+    text-align: right;
+
+    font-size: 12px;
+    line-height: 24px;
+
+    .mixpanelBadge img { margin-top: 30px; }
+}
+
+#pageFooter div.contactBox img {
+    position: relative;
+    right: -8px;
+    margin-bottom: 12px;
+}
+
+#pageFooter #tweet {
+    position: relative;
+    width: 240px;
+    min-height: 70px;
+    padding: 15px 15px 15px 56px;
+    margin-bottom: 12px;
+
+    background: #333;
+    font-size: 12px;
+    line-height: 20px;
+
+    @include border-radius(4px);
+    // @include pie;
+
+    img.twitterLogo {
+        position: absolute;
+        top: 16px;
+        left: 10px;
+    }
+
+    img.tweetArrow {
+        position: absolute;
+        bottom: -12px;
+        left: 45px;
+    }
+
+    a {
+        display: block;
+        margin-top: 8px;
+        color: #c64820;
+    }
+}
+
+#pageFooter a.tweetBy {
+    vertical-align: middle;
+    padding-left: 43px;
+
+    color: white;
+}
+
+#pageFooter a.tweetBy img {
+    position: relative;
+    top: 7px;
+}
+
+/*************************************/
+/*             Footer #2             */
+/*************************************/
+
+#pageFooter .footer2 {
+    a { color: white; }
+
+  .fairHousing {
+        float: left;
+        text-decoration: none;
+
+        img { vertical-align: top; margin-top: 14px; }
+        span { padding: 15px 0 0 10px; }
+
+        &:hover span { text-decoration: underline; }
+    }
+
+    ul {
+        text-align: center;
+
+        li {
+            display: inline;
+            line-height: 12px;
+            padding-right: 20px;
+            margin: 26px 20px 0 0;
+
+            border-right: white 1px solid;
+            vertical-align: middle;
+
+            &:last-child { border-right: none; }
+        }
+    }
+
+    .copyright { float: right; }
 }

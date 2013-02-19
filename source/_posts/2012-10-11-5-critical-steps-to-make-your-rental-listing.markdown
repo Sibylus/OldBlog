@@ -14,8 +14,6 @@ categories:
 - rental market
 - rental property software
 - Rentobo
-posterous\_url: http://blog.rentobo.com/5-critical-steps-to-make-your-rental-listing
-posterous\_slug: 5-critical-steps-to-make-your-rental-listing
 ---
 
 As the rental market thrives in the long aftermath of the housing crisis, it can
