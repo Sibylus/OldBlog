@@ -11,7 +11,7 @@ Even the best landlord can fall victim to a scam. However, you can avoid being a
 
 ###Meet with the prospective tenant whenever possible
 
-Meeting in person can protect both the landlord and the potential tenant during the leasing process. A genuine prospect shouldn’t have any trouble agreeing to meet. Sometimes you will have an out-of-state or even an international prospect [see our article on leasing to out-of-state or relocating tenants](www.rentobo.com/blog/article.) This is OK, but make sure you communicate directly with the renter and recognize when they are trying to withhold certain details about their identity. Any refusal to provide you with reasonable information (employment info, ssn on the application, past rental history, etc.) is suspicious and you should probably move on.
+Meeting in person can protect both the landlord and the potential tenant during the leasing process. A genuine prospect shouldn’t have any trouble agreeing to meet. Sometimes you will have an out-of-state or even an international prospect ([see our article on leasing to out-of-state or relocating tenants](http://www.rentobo.com/blog/three-tips-for-brokering-a-relocating-tenant)). This is OK, but make sure you communicate directly with the renter and recognize when they are trying to withhold certain details about their identity. Any refusal to provide you with reasonable information (employment info, ssn on the application, past rental history, etc.) is suspicious and you should probably move on.
 
 ###Do not accept cashier's checks or wire transfers
 
