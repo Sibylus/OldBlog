@@ -66,8 +66,22 @@ button, input[type="submit"], input[type="button"] {
 
 // Rentobo specific styles here
 #signupButton {
-  width: 100px;
   margin: 0 auto;
   display: block;
 }
 
+#mce-EMAIL {
+  width: 100%;
+  margin-bottom: 20px;
+  font-family: 'Open Sans';
+  font-size: 16px;
+  background: white;
+  border: 1px solid #999;
+  padding: 5px;
+}
+
+#mc-embedded-subscribe {
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
