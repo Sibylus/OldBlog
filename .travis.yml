@@ -22,7 +22,7 @@ script:
   - rake generate
 after_script:
   # Deploy!
-  - ! 'echo ''script: "ls *.html"'' > public/.travis.yml'
+  - ! 'echo ''script: "ls *.html"'' > public/blog/.travis.yml'
   - rake deploy
 
 env:
