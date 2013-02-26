@@ -3,7 +3,7 @@ layout: post
 title: "Why to rent out your 'For Sale' home"
 comments: true
 categories: [categories, go, here]
-published: false
+published: true
 
 ---
 
