@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Why to rent out your 'For Sale' home"
+title: Why to rent out your 'For Sale' home
 comments: true
-categories: [categories, go, here]
+categories: [rental market, rental tips]
 published: true
-
 ---
 
 Selling your home is an important decision that should be evaluated carefully in the context of your personal and familial financial situation and needs.  While there are many factors as to why someone would sell, the current robust rental climate can spell opportunity for the right potential landlord. Here are some reasons why renting your home---even temporarily---could be the right move.

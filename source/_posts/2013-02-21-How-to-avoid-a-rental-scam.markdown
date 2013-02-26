@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to avoid a rental scam"
+title: "How to Avoid a Rental Scam"
 comments: true
 categories: [rental scam, landlord advice]
 published: true

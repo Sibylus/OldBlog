@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What to do when you can't fill your vacancies"
+title: "What to Do When You Can’t Fill Your Vacancies"
 comments: true
 categories: [rental marketing, rental vacancies, resident retention]
 published: true

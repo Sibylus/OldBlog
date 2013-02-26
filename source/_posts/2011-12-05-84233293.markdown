@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apartment applications and leases
+title: Apartment Applications and Leases
 published: true
 date: 2011-12-05
 categories:
