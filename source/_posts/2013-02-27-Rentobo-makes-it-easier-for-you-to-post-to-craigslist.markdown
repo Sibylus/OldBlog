@@ -1,28 +1,30 @@
 ---
 layout: post
-title: "Title"
+title: "Rentobo Makes it Easier to Post to Craigslist"
 comments: true
-categories: [categories, go, here]
+categories: [product updates, craigslist]
 published: false
 
 ---
 
-Rentobo is meant to be the easiest way for a landlord to manage the rental process. Part of that process is promoting to major rental search sites such as craigslist. If you have ever posted html or 'fancy' rental listings to craigslist, you may have encountered some difficulty.
+Rentobo is the easiest way to manage the rental process. If you're a landlord, property manager or leasing agent, the first step in the process is marketing your vacancy effectively to find a great tenant quickly.
 
-Our new Chrome plug-in will eliminate that difficulty and allow you to post beautiful listings seamlessly, without the hassle.
+Using Rentobo, you can post to craigslist and many additional real estate search sites simultaneously. Just fill out your listing information once with us, and we automatically promote and distribute your listing across the web.
 
-###Posting page on Rentobo
+Today we're announcing a feature that is the fastest way to post real estate listings to craigslist - the [Rentobo Posting Helper](https://chrome.google.com/webstore/detail/rentobo-posting-helper/fkiffbkghgniailieekodmgbomkefdgo?hl=en-US). The Rentobo Posting Helper is a Chrome extension that seamlessly integrates with Rentobo to let you post to craigslist with **one click**. Other browser support is coming soon, but in the meantime we highly suggest you give [Google Chrome](https://www.google.com/intl/en/chrome/browser/) a shot. 
 
-{img % right https://www.dropbox.com/s/ju1x61hte1e0i6n/Extension%20on%20Rentobo.png/ Promoting on craigslist via Rentobo %}
+### Posting page on Rentobo
 
-Once you have logged into Rentobo, under the promotions tab, you can select where you want your listing to display on craigslist (also be sure to take advantage of our [listing syndication](http://www.rentobo.com/benefits/) feature to promote your listing to other sites simultaneously.) Alternatively, you can also copy and paste the 'html' generated code to craiglist.
+{% img right https://www.dropbox.com/s/ju1x61hte1e0i6n/Extension%20on%20Rentobo.png/ Promoting on craigslist via Rentobo %}
 
-{img % left https://www.dropbox.com/s/a9lxb4l5g8qp0c4/Loading%20Small.png/ Chrome extension loading graphic %}
+Once you've entered your listing details in Rentobo, under the **Promotions** tab, select under which geographic area you want the listing to display on craigslist (also be sure to take advantage of our [listing syndication](http://www.rentobo.com/benefits/) feature to promote your listing to other sites simultaneously). Alternatively, you can manually copy and paste the generated HTML to craigslist.
 
-Once you have submitted your location on the Rentobo website, our extension will *automagically* populated the required fields on craigslist. Once this is done, you will see something similar to the following:
+{% img left https://www.dropbox.com/s/a9lxb4l5g8qp0c4/Loading%20Small.png/ Chrome extension loading graphic %}
 
-###Confirmation page on craigslist
+Once you click **Post to Craigslist** inside Rentobo, our extension will *automagically* populate the required fields on craigslist. Once this is done, you will see something similar to the following:
 
-{img % https://www.dropbox.com/s/6r5fyb3ajzn5zdt/Craigslist%20screen%20small.png/ Confirmation page on craigslist %}
+{% img https://www.dropbox.com/s/6r5fyb3ajzn5zdt/Craigslist%20screen%20small.png/ Confirmation page on craigslist %}
 
-You are now ONE CLICK away from displaying your listing! 
+After that, just follow the standard craigslist verification and posting guidelines.
+
+We'd appreciate your feedback on the extension -- [let us know](mailto:support@rentobo.com?subject=Chrome%20Extension) if we can make any improvements. Don't forget to tell your friends and colleagues and leave us a rating in the [Chrome Web Store](https://chrome.google.com/webstore/detail/rentobo-posting-helper/fkiffbkghgniailieekodmgbomkefdgo?hl=en-US)!
