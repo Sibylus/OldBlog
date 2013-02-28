@@ -65,7 +65,7 @@ github_skip_forks: true
 
 # Twitter
 twitter_user: Rentobo
-twitter_tweet_count: 4
+twitter_tweet_count: 5
 twitter_show_replies: false
 twitter_follow_button: true
 twitter_show_follower_count: false
@@ -118,5 +118,4 @@ prose:
 # Asset Config
 # asset_root_preview: /blog
 asset_root_prod: http://oblog.rentobo.com
-
 asset_root: /blog
