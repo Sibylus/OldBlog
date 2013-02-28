@@ -15,15 +15,15 @@ Today we're announcing a feature that is the fastest way to post real estate lis
 
 ### Posting page on Rentobo
 
-{% img right https://www.dropbox.com/s/ju1x61hte1e0i6n/Extension%20on%20Rentobo.png/ Promoting on craigslist via Rentobo %}
+{% img right http://cdn.rentobo.com/blog/images/Extension+on+Rentobo.png Promoting on craigslist via Rentobo %}
 
 Once you've entered your listing details in Rentobo, under the **Promotions** tab, select under which geographic area you want the listing to display on craigslist (also be sure to take advantage of our [listing syndication](http://www.rentobo.com/benefits/) feature to promote your listing to other sites simultaneously). Alternatively, you can manually copy and paste the generated HTML to craigslist.
 
-{% img left https://www.dropbox.com/s/a9lxb4l5g8qp0c4/Loading%20Small.png/ Chrome extension loading graphic %}
+{% img left http://cdn.rentobo.com/blog/images/Loading+Small.png Chrome extension loading graphic %}
 
 Once you click **Post to Craigslist** inside Rentobo, our extension will *automagically* populate the required fields on craigslist. Once this is done, you will see something similar to the following:
 
-{% img https://www.dropbox.com/s/6r5fyb3ajzn5zdt/Craigslist%20screen%20small.png/ Confirmation page on craigslist %}
+{% img http://cdn.rentobo.com/blog/images/Craigslist+screen+small.png Confirmation page on craigslist %}
 
 After that, just follow the standard craigslist verification and posting guidelines.
 
