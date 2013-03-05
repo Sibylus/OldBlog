@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Title"
+title: "Affordable tips for sprucing up your rental"
 comments: true
 categories: [landlord advice, Renovation]
-published: false
+published: true
 
 ---
 
@@ -21,7 +21,7 @@ In other words, don't spend too much money on a more beautiful alternative, when
 
 A fresh coat of paint can do wonders for a bland-looking unit. With that said, the actual task of painting can be time consuming and stressful if you get carried away. There are a couple simple solutions to this dilemma:
 
-1. Select a color that is neutral and stick with the color throughout the unit.
+1. Select a color that is neutral and stick with that color throughout the unit.
 2. Allow your prospective tenant to paint the unit themselves.
 
 The second option can be a huge selling point for your property. Prospective tenants love to visualize their potential new space, and the ability to paint will get their imaginative juices flowing. 
