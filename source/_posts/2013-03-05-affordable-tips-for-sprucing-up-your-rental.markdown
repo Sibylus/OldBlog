@@ -30,7 +30,6 @@ The second option can be a huge selling point for your property. Prospective ten
 
 If you have a bit of decorator in you, you can still be very budget conscious when updating your unit. Think of small fixes that will leave a big visual impression. Instead of changing your entire cabinet, switch out the knobs and handles. Update that old brass faucet with a polished stainless steel. Attach a new showerhead in the bathrooms.
 
-In some cases, the originality of your fixtures can actually be a selling point. In this case, you can take them off, polish them properly (check out [HGTV](www.hgtv.com) or [DIY](www.doityourself.com) for tips on how to this,) and reattach them. Again, it isn't difficult to make a big impact on a space with simple, eye-catching updates.
-
+In some cases, the originality of your fixtures can actually be a selling point. In this case, you can take them off, polish them properly (check out [HGTV](http://www.hgtv.com) or [DIY](http://www.doityourself.com) for tips on how to this,) and reattach them. Again, it isn't difficult to make a big impact on a space with simple, eye-catching updates.
 
 The best way to approach a property update is to get multiple perspectives. If prospective tenants come to look at your property, pay attention to their feedback. A helpful broker may be willing to give you some tips as well. With a better perspective, you can apply our tips as mentioned to update your unit without breaking the bank.
