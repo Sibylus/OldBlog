@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why to rent out your 'For Sale' home
+title: "Why to Rent Out Your 'For Sale' Home"
 comments: true
 categories: [rental market, rental tips]
 published: true

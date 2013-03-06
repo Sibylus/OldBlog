@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Affordable tips for sprucing up your rental"
+title: "Affordable Tips for Sprucing up Your Rental"
 comments: true
 categories: [landlord advice, Renovation]
 published: true
