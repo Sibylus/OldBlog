@@ -7,7 +7,7 @@ published: false
 
 ---
 
-Property owners in college towns face unique challenges with their rental properties. Owning an attractive, well-priced investment suite in a high-demand area near a school can result in healthy profits, however, renting to students often means dealing with seasonal leases, subletting and co-tenancy between roommates.
+Property owners in college towns face unique challenges with their rental properties. Owning an attractive, well-priced investment suite in a high-demand area near a school can result in healthy profits. However, renting to students often means dealing with seasonal leases, subletting and co-tenancy between roommates.
 
 ###Students Expect Digital Marketing
 
