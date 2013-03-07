@@ -3,7 +3,7 @@ layout: post
 title: "Marketing Off-Campus Housing"
 comments: true
 categories: [real estate marketing, off-campus housing]
-published: false
+published: true
 
 ---
 
