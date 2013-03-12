@@ -3,7 +3,7 @@ layout: post
 title: "The importance of responding quickly to maintenance requests"
 comments: true
 categories: [landlords, advice, maintenance]
-published: false
+published: true
 
 ---
 
