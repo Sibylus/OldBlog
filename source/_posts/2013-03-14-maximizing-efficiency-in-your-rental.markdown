@@ -7,7 +7,7 @@ published: false
 
 ---
 
-The rental business is a tough one -- even profitable landlords or property management firms can benefit from a closer inspection of rental marketing strategies, communication practices and rental listing advertising costs. Many owners or managers use inefficient processes to get the job done. Here are some tips to help you increase your bottom line from the inside out.
+The rental business is tough -- even profitable landlords or property management firms can benefit from a closer inspection of rental marketing strategies, communication practices and rental listing advertising costs. Many owners or managers use inefficient processes to get the job done. Here are some tips to help you increase your bottom line from the inside out.
 
 ###Promote correctly
 
