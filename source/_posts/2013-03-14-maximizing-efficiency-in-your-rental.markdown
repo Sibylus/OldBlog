@@ -2,8 +2,8 @@
 layout: post
 title: "Maximizing Efficiency in Your Rental Business"
 comments: true
-categories: [landlord advice, efficiency,]
-published: false
+categories: [landlord advice, efficiency]
+published: true
 
 ---
 
