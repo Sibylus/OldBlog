@@ -10,7 +10,7 @@ While property owners in high demand areas have less difficulty recruiting tenan
 
 ###What Concessions Should You Offer?
 
-A Los Angeles landlord recently made headlines with her unique rental concession; Sandy Zalegens, a property investor and animal rescue advocate, recently offered new tenants a $150 discount on their monthly $950 rent on the condition that they adopt Big Louie, a 80-pound Pit Bull dog who [needed a home](http://www.huffingtonpost.com/2012/08/17/pitbulls-landlord-discounts-rent_n_1790737.html)
+A Los Angeles landlord recently made headlines with her unique rental concession; Sandy Zalegens, a property investor and animal rescue advocate, recently offered new tenants a $150 discount on their monthly $950 rent on the condition that they adopt Big Louie, a 80-pound Pit Bull dog who [needed a home.](http://www.huffingtonpost.com/2012/08/17/pitbulls-landlord-discounts-rent_n_1790737.html)
 
 **See Also:** [Ethical Challenges of Being a Landlord](http://www.rentobo.com/blog/ethical-challenges-of-being-a-landlord/)
 
