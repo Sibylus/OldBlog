@@ -2,8 +2,8 @@
 layout: post
 title: "When To Offer Rental Concessions"
 comments: true
-categories: [landlord advice, rental market,]
-published: false
+categories: [landlord advice, rental marketing]
+published: true
 ---
 
 While property owners in high demand areas have less difficulty recruiting tenants, investors who own rental units in areas with high vacancy rates may need to offer rental concessions to both current and prospective tenants. If your rental property is located in an area where there are more vacancies than there are qualified tenants, providing perks to your renters can make the difference between maintaining your rental cash flow or having your units sit empty.
