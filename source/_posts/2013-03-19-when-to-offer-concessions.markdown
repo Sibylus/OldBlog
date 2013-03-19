@@ -12,6 +12,8 @@ While property owners in high demand areas have less difficulty recruiting tenan
 
 A Los Angeles landlord recently made headlines with her unique rental concession; Sandy Zalegens, a property investor and animal rescue advocate, recently offered new tenants a $150 discount on their monthly $950 rent on the condition that they adopt Big Louie, a 80-pound Pit Bull dog who [needed a home](http://www.huffingtonpost.com/2012/08/17/pitbulls-landlord-discounts-rent_n_1790737.html])
 
+**See Also:** [Ethical Challenges of Being a Landlord](http://www.rentobo.com/blog/ethical-challenges-of-being-a-landlord/)
+
 Although Zalegens' concession did help her find a great tenant for her unit, most property owners cannot (and likely should not) be quite that creative when it comes to providing incentives to attract tenants. Nevertheless, it might not hurt to think ‘outside of the box’ when it comes to offering concessions. Consider what you can offer, focusing first on low-cost ideas such as allowing pets, providing free parking or including cable TV service. Enticing tenants by including utilities is another popular perk, as it saves tenants the hassle of activating their own utility accounts while the cost to the landlord is usually manageable.
 
 ###Concessions Can Help Improve Retention Rates
