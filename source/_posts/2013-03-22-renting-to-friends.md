@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Should You Rent to Friends"
+title: "Should You Rent to Friends?"
 comments: true
 categories: [landlord advice]
 published: true
