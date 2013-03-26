@@ -3,11 +3,11 @@ layout: post
 title: "The Importance of Up-To-Date Leases and Agreements"
 comments: true
 categories: [landlord advice, rental market, leases]
-published: false
+published: true
 
 ---
 
-In most jurisdictions, both local and state jurisdictions regulate important property management issues such as collecting and returning security deposits, rental rate increases and the terms of the tenancy. Landlords need to maintain current leases and rental agreements for all their units in order to qualify for protection under landlord-tenant laws as well as to protect them against any hassles that can arise during the tenancy.
+In most cities, both local and state jurisdictions regulate important property management issues such as collecting and returning security deposits, rental rate increases and the terms of the tenancy. Landlords need to maintain current leases and rental agreements for all their units in order to qualify for protection under landlord-tenant laws as well as to protect them against any hassles that can arise during the tenancy.
 
 ###The Basics of Rental Leases and Agreements
 
