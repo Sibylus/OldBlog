@@ -2,8 +2,8 @@
 layout: post
 title: "4 Ways To Increase Property Revenue"
 comments: true
-categories: [landlord advice, rental finances,]
-published: false
+categories: [landlord advice, rental finances]
+published: true
 
 ---
 
@@ -21,10 +21,14 @@ If you want to attract premium tenants to your properties, you need to provide t
 
 ###Raise The Rent
 
-In most jurisdictions, regular rent increases are controlled by the law; if you aren't bothering to increase your rent in line with what the government allows, you're missing out on an easy way to boost your revenue. Perhaps more importantly, pay attention to similar units in your market. If your rent is noticeably lower, you probably will want to raise it. While rent increases tend to be unpopular with tenants, most expect their property owners to charge current market value for their properties.
+It sounds easy, but you should verify your units' rents are priced reasonably according to the local market and neighborhood. 
+In most jurisdictions, regular rent increases are permitted. If you aren't bothering to increase your rent in line with regulations, you're leaving money on the table as inflation of maintenance services, regular upkeep and overhead expenses eat away from your bottom line.
+Perhaps more importantly, pay attention to similar units in your market.
+If your rent is noticeably lower, you probably will want to raise it.
+While rent increases tend to be unpopular with tenants, most expect their property owners to charge current market value for their properties.
 
 ###Improve Customer Service
 
 Happy tenants are stable tenants. Think of your tenants as your customers, like any customer-service based business, the better you are at providing great customer service, the more successful your business will be. By responding quickly to [maintenance requests](http://www.rentobo.com/blog/responding-quickly-to-maintenance-requests/), being courteous and presenting yourself in a professional manner (even when you get the dreaded 3 a.m. phone call) your tenants will respond by treating you with respect. They will be more likely to pay their rent on time, take care of their unit and stay put, all things that help to boost your bottom line.
 
-While increasing your rental income can seem like a daunting task, with a little effort and fine-tuning, you can raise the revenues of your property management business.
+While increasing your rental income can seem like a daunting task, with a little effort and fine-tuning, you can raise the revenues of your rental or property management business.
