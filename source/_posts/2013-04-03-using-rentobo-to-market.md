@@ -2,8 +2,8 @@
 layout: post
 title: "Using Rentobo To Market Your Rental Property"
 comments: true
-categories: [rentobo, rental marketing, ]
-published: false
+categories: [rentobo, rental marketing]
+published: true
 
 ---
 
