@@ -23,6 +23,6 @@ When you create and post a listing with Rentobo, prospective tenants can submit 
 
 *We are also in the process of integrating full background and credit screening with Rentobo. If you would like to learn more and participate in our upcoming, limited beta program for this feature, click [here](http://www.rentobo.com/tenant_screening).
 
-Getting started
+###Getting started
 
 Getting started is easy. Visit [Rentobo.com](http://www.rentobo.com) and enter the address for your property on our home page. Our quick-start wizard will allow you to create a listing in just a few short minutes. The best part is that setting up and promoting your listing on Rentobo is free! 
