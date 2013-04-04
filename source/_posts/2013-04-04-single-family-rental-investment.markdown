@@ -3,7 +3,7 @@ layout: post
 title: "The Case For Single-Family Rental Investment "
 comments: true
 categories: [rental investment, single-family housing]
-published: false
+published: true
 
 ---
 
@@ -15,7 +15,7 @@ That is a big number that actually helps the rental market more than the housing
 
 * When people lose their homes to foreclosures, [60% end up renting a single-family home](http://www.forbes.com/sites/kenrapoza/2012/04/04/how-single-family-home-investing-can-save-the-housing-market/), with another 23% renting an apartment.
 * Over the last five years, foreclosures have caused over [3 million homeowners](http://www.realestateeconomywatch.com/2012/04/single-family-rentals-now-exceed-multifamily/) and put them into the rental market.
-* There is an estimated [6.3 million generation Y](http://www.forbes.com/sites/kenrapoza/2012/04/04/how-single-family-home-investing-can-save-the-housing-market/2/) aspiring renters that currently live with their friends or at home while they financially establish themselves in a tough job market. These kids are expected to enter the rental market within the next 5 years.
+* There is an estimated [6.3 million Generation Y](http://www.forbes.com/sites/kenrapoza/2012/04/04/how-single-family-home-investing-can-save-the-housing-market/2/) aspiring renters that currently live with their friends or at home while they financially establish themselves in a tough job market. These kids are expected to enter the rental market within the next 5 years.
 * [22% of borrowers are are “underwater”](http://makinsensebabe.com/number-of-new-us-single-family-homes-sales-fell-in-december-2012-while-home-prices-rose-so-basically-nobody-can-afford-a-home/) whereas a healthy economy would put that number at around 5%. For some of these people, without a lot of help, they will soon enter the rental market as well.
 * The U.S. has solid demographics for homeownership, but new housing supply is [63% below the historical average.](http://www.blackstone.com/news-views/blackstone-blog/blackstone-creates-national-single-family-rental-home-platform)
 
