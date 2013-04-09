@@ -45,6 +45,9 @@ module Jekyll
   # to be called something else
   SITEMAP_FILE_NAME = "sitemap.xml"
 
+  # MC: This is kind of a hack to play nice with our rack setup
+  SITEMAP_DIR = "sitemap"
+
   # Any files to exclude from being included in the sitemap.xml
   EXCLUDED_FILES = ["atom.xml"]
 
@@ -123,17 +126,18 @@ module Jekyll
       sitemap.add_element(urlset)
 
       # File I/O: create sitemap.xml file and write out pretty-printed XML
-      unless File.exists?(site.dest)
-        FileUtils.mkdir_p(site.dest)
+      unless File.exists?("#{site.dest}/#{SITEMAP_DIR}")
+        FileUtils.mkdir_p("#{site.dest}/#{SITEMAP_DIR}")
       end
-      file = File.new(File.join(site.dest, SITEMAP_FILE_NAME), "w")
+
+      file = File.new(File.join(site.dest, SITEMAP_DIR, SITEMAP_FILE_NAME), "w")
       formatter = REXML::Formatters::Pretty.new(4)
       formatter.compact = true
       formatter.write(sitemap, file)
       file.close
 
       # Keep the sitemap.xml file from being cleaned by Jekyll
-      site.static_files << Jekyll::SitemapFile.new(site, site.dest, "/", SITEMAP_FILE_NAME)
+      site.static_files << Jekyll::SitemapFile.new(site, site.dest, SITEMAP_DIR, SITEMAP_FILE_NAME)
     end
 
     # Create url elements for all the posts and find the date of the latest one
