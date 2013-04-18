@@ -3,7 +3,7 @@ layout: default
 published: true
 categories: [online tenant screening, landlord advice]
 title: "Why Tenant Screening is Important"
-date: 04-12-2013
+date: 2013-04-12
 ---
 
 As a landlord, there can be many reasons as to taking a lax approach to screening tenants. But it is better to be safe than sorry. Some property owners, particularly the ones with smaller portfolios, tend to be more relaxed until _after_ they’ve been bitten by a bad tenant or two. Here are some of the reasons why you should always screen a tenant properly _before_ you pay the consequence.
