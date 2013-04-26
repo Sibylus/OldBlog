@@ -3,11 +3,10 @@ layout: post
 title: "Guest Post: How to be a Better Landlord (from a Renter's Perspective)"
 comments: true
 categories: [landlord advice, pay rent online]
-published: false
-
+published: true
 ---
 
-{% img /images/wp_lease_image.png "Rental Agreement Form" right %}
+{% img right /images/wp_lease_image.png Rental Agreement Form %}
 
 When I went to look for my third apartment in the city, I started to learn that not
 only is it important to look for a great apartment and location but that finding a
