@@ -7,7 +7,7 @@ categories:
   - Tenants
   - Advice
   - Rental Market
-
+date: 2013-05-09
 ---
 
 Homeowner’s insurance is required by any mortgagee and will cover the property itself, any outbuildings as well as the contents of the structure. Landlord’s insurance is required as well, and on top of the building and such being covered; the landlord will also be protected against lawsuits that may occur due to an accident on the property. However, what many tenants do not know is that landlord’s insurance does not cover their personal possessions. Unfortunately, when disasters occur, this lack of coverage can be a real shock to tenants. If this piece of information isn’t compelling enough, here are some other reasons why every tenant should obtain renter’s insurance.
