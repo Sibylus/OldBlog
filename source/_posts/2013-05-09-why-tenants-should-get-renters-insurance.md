@@ -1,12 +1,12 @@
 ---
 published: true
 layout: post
-title: Title
+title: "Why Tenants Should Get Renter's Insurance"
 comments: true
 categories: 
-  - categories
-  - go
-  - here
+  - Tenants
+  - Advice
+  - Rental Market
 
 ---
 
