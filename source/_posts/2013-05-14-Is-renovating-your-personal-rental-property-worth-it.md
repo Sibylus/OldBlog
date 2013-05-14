@@ -1,11 +1,10 @@
 ---
 published: 
   - true
-  - "false,false"
 layout: post
-title: "If Renovating Your Personal Rental Property Worth It?"
-comments: "true"
-categories: "personal rental property, renting property, rent payments, landlord advice,"
+title: "Is Renovating Your Personal Rental Property Worth It?"
+comments: true
+categories: [personal rental property, renting property, rent payments, landlord advice]
 
 ---
 
