@@ -8,6 +8,8 @@ rvm:
 before_script: 
   # Set read-write git origin
   - git remote set-url origin $REPO.git
+  - git config --global user.email "rentobo_blog@example.com"
+  - git config --global user.name "RentoboBlog"
   # Unpack ssh key for git
   - echo -n $id_rsa_{00..30} >> ~/.ssh/id_rsa_base64
   - base64 --decode --ignore-garbage ~/.ssh/id_rsa_base64 > ~/.ssh/id_rsa
