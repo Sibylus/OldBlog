@@ -1,6 +1,6 @@
 ---
 published: 
-  - false
+  - true
   - "true"
 layout: post
 title: "Is Your Rental Property Up To Code?"
@@ -30,4 +30,4 @@ Very few property owners or managers are properly qualified to inspect a propert
 
 ###Make sure renovations are completed by a professional
 
-The reasons for this should be obvious. If you’ve ever watched the show [Holmes Inspection](http://www.hgtv.com/holmes-inspection/show/index.html), you will have gotten a glimpse of the pitfalls of a bad home installation or inspection. Rather than potentially throwing your money down the drain, make sure that the vendor you choose is proven and trustworthy. Don’t know where to start? [Angie’s List](http://www.angieslist.com), a vendor review service, and [Buildzoom](http://www.buildzoom.com), a locator service for general contractors, are great resources for finding the right company to get the job done.
+The reasons for this should be obvious. If you’ve ever watched the show [Holmes Inspection](http://www.hgtv.com/holmes-inspection/show/index.html), you will have gotten a glimpse of the pitfalls of a bad home installation or inspection. Rather than potentially throwing your money down the drain, make sure that the vendor you choose is proven and trustworthy. Don’t know where to start? [Angie’s List](http://www.angieslist.com), a vendor review service, and [BuildZoom](http://www.buildzoom.com), a locator service for general contractors, are great resources for finding the right company to get the job done.
