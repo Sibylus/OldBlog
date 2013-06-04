@@ -8,7 +8,7 @@ categories: "paying bills, tenants, rental advice"
 date: 2013-06-04
 ---
 
-{% img right /image01.png 315 185 %}
+{% img right /images/image01.png 315 185 %}
 Do you dread opening your mailbox? Does that stack of bills pile up every month until it becomes an unmanageable heap? An apartment comes with a multitude of different expenses. Besides paying your rent each month, you most likely have to pay your utility bills, which include gas, electric, heat, cable, internet and any other expenses you are responsible for in your building. 
 
 Every month I have to keep up-to-date on my utility bills as well as my credit card bill, tuition payment, and rent. Keeping everything in order and paid on time took awhile to get a handle on. Let’s just say I had to pay a few late fees! Here are some tips on how to manage these monthly bills and make it to the end of the month without any extra fees. 
