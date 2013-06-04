@@ -35,4 +35,3 @@ Almost every utility company and bank offers you the ability to pay your bills o
 
 
 *Submitted by WilliamPaid.com. WilliamPaid lets renters & roomies pay rent online, automatically, with more flexibility and it's FREE. Users can also build credit with each rent payment.*
-
