@@ -5,7 +5,7 @@ published:
 layout: post
 title: "Is Your Rental Property Up To Code?"
 comments: "true"
-categories: "landlord advice, rental market, building code, "
+categories: "landlord advice, rental market, building code"
 
 ---
 
