@@ -14,7 +14,7 @@ So you have taken the plunge, and become a new landlord! Maybe you decided to re
 
 Many new landlords are in business for themselves---by themselves. If this is you, joining an association [can have many benefits](http://www.rentobo.com/blog/renting-property-join-a-landlord-association/). You can stay up to date on the local and national laws, news, and the best practices in your market. You can get invaluable insights from more veteran property owners. You can get the scoop on which vendors to use, and which ones to avoid. For example, there are a lot of different associations throughout Chicagoland and the state of Illinois, and a listing of these organizations can be found [here](http://www.thelpa.com/lpa/associations/illinois.html).
 
-###Decide How Much You’re Willing To DYI
+###Decide How Much You’re Willing To DIY
 
 Being a landlord can be a very hands on or automated business depending on how you manage it. Many property owners will go so far as handling maintenance requests by themselves! However, if you aren’t a professional handyman, you need to figure out how you’re going to quickly and efficiently handle repairs. We talk about the [importance of handling requests well](http://www.rentobo.com/blog/responding-quickly-to-maintenance-requests/), and with the right system in place, you will have happier renters and a more profitable business.
 
