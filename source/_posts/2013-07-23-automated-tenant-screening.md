@@ -1,33 +1,48 @@
 ---
 published: false
 layout: post
-title: Announcing Automated Tenant Screening
+title: Announcing Automated Tenant Screening!
 comments: "true"
 categories: "tenant screening, property management software"
 ---
 
-These past few months have been exciting for Rentobo. Our team has been hard at work making improvements and implementing new features. We’re proud to announce Automated Tenant Screening - a better way to find the best tenant for your rental properties, along with a few other improvements to the application process.
+It’s been an exciting few months for Rentobo. Our team has been hard at work making improvements and implementing new features to bring you the biggest release since we first launched Rentobo. 
 
-## A Better Way to Screen Tenants
+We’re proud to announce Rentobo’s Automated Tenant Screening - a better way to find the best tenant for your rental properties, along with numerous other improvements to our application process and Rentobo overall.
 
-Rentobo has integrated with TransUnion to provide the easiest, most secure way to receive credit and criminal history reports from your applicants. Once an applicant authorizes your background check request, the process is done in a few minutes. Unlike competitors, this process requires no site inspection, lengthy approval process, or the myriad of hurdles required to jump in order to receive full credit reports. Since we never store your applicants’ social security numbers and have partnered with one of the largest credit reporting agencies in the world, renters can rest easy knowing their information is in safe hands. It’s also way better for renters because there’s no impact to their credit score by releasing their information to you.
+### Free to Landlords, Managers, and Agents
 
-** [Learn More About Using Consumer Credit Reports under the FCRA][1]
-
-## Using Automated Tenant Screening
-
-All it takes to set up your listing for screening are a few answers about your listing and prospective applicants - that’s it. While renters pay a $35 application fee directly to Rentobo, screening is at no cost to you.
+As of today, we have today Tenant Credit & Background Screening available to all Rentobo users at no additional charge.  Simply enable Tenant Screening on your new or existing listing and you will automatically receive complete credit and criminal conviction reports with all applications to your listing.  Renters pay a $35 application fee directly to Rentobo to cover the cost of the report, enabling us to make screening available at no additional cost to you.
 
 **Setting up Screening**
 
-When you’re creating a new listing, follow our wizard and proceed to the “Credit / Screening Background Screening” step. Just answer a few questions about your property, save your changes, and we’ll do the rest. If you’re managing an existing listing, just navigate to “Credit / Screening Background Screening” from “Edit Listing.” [screenshot]
+To receive screening reports for your new or existing listing, select the **“Enable TransUnion tenant screening reports”** checkbox on the new “Credit & Background Screening” page of your listing configuration.  Answer a few questions about your property and prospective tenants (so we can provide customized creditworthiness recommendations), save your changes, and we’ll do the rest. 
+
+<a href="http://oblog.rentobo.com/images/Screening_Screenshot_2_large.png"><img class="right" src="http://oblog.rentobo.com/images/Screening_Screenshot_2_thumb.png" alt="Rentobo Tenant Screening"></a>
+<a href="http://oblog.rentobo.com/images/Screening_Screenshot_1_large.png"><img class="right" src="http://oblog.rentobo.com/images/Screening_Screenshot_1_thumb.png" alt="Rentobo Tenant Screening"></a>
+
+For more information check out our [Getting Started Guide][3].
 
 **Reviewing Credit Recommendations and Reports**
 
-Once you receive applications to your listing, you can review the credit recommendation and full credit and criminal history details under each application. [screenshot]
+Once you receive applications to your listing, you can review the credit recommendation and full credit and criminal history details under each application.
 
-## Improved Applications
+### A Better Way to Screen Tenants
 
-We’ve listened to your feedback, and we’ve added several new features and streamlined the application process for prospective renters. In addition, we’ve also made it easier for group applicants to apply together. As a landlord, you’re now notified when an application is started, so you can follow up on the most promising leads right away. On your Rentobo dashboard, you’re now presented with a applications tab,  where you can view application statuses and details. [screenshot]
+Rentobo has integrated with TransUnion to provide the easiest, most secure way to receive credit and criminal history reports from your applicants. You can be up and running in the time it takes to check a box, with no additional configuration required. 
+
+Thanks to TransUnion's proprietary technology, Rentobo users can bypass the site inspection, lengthy approval process, and the myriad of other obstacles usually required by most credit data providers. Since we never store your applicants’ social security numbers and have partnered with one of the largest credit reporting agencies in the world, renters can rest easy knowing their information is in safe hands. It’s also way better for renters since the screening request is technically considered a “soft inquiry,” preventing a hit to their credit score.
+
+### Improved Online Rental Applications
+
+We’ve added several new features and streamlined our [online rental application][2]. We’ve made it easier for groups of roommates or a prospect and a co-signer to apply with each other. As a landlord, you’re now notified when an application is started (in addition to completion), so you can follow up on the most promising leads right away. Now, on your Rentobo dashboard, you’re also presented with an Applications tab, where you can view application statuses and details across all of your listings at once.
+
+If you're new to Rentobo, [create your first listing here][4], or if you have an existing account [sign in to get started!][5]
+
+** [Learn More About Using Consumer Credit Reports under the FCRA][1] **
 
 [1]: http://business.ftc.gov/documents/bus49-using-consumer-reports-what-landlords-need-know 
+[2]: http://www.rentobo.com/blog/benefits-of-online-rental-applications/
+[3]: http://oblog.rentobo.com/images/Credit_Screening_Getting_Started.pdf
+[4]: http://www.rentobo.com/quickstart
+[5]: https://www.rentobo.com/users/sign_in

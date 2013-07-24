@@ -5,7 +5,7 @@ published:
 layout: post
 title: 4 Tips For New Landlords
 comments: "true"
-categories: Landlordadvice newlandlord landlord
+categories: Landlord advice, new landlord
 ---
 
 So you have taken the plunge, and become a new landlord! Maybe you decided to rent out a spare bedroom in your house, or you have acquired your first rental property. Being a landlord is no cakewalk, so hopefully you’ve done your research before taking the plunge. Just in case, here are some checklist items to make sure your business gets started on the right foot.
