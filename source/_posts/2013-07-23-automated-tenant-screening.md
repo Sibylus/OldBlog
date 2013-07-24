@@ -1,7 +1,5 @@
 ---
-published: 
-  - true
-  - "false"
+published: false
 layout: post
 title: Announcing Automated Tenant Screening
 comments: "true"
