@@ -3,7 +3,9 @@ published: true
 layout: post
 title: Announcing Automated Tenant Screening!
 comments: "true"
-categories: "tenant screening, property management software"
+categories: 
+- tenant screening 
+- property management software
 ---
 
 It’s been an exciting few months for Rentobo. Our team has been hard at work making improvements and implementing new features to bring you the biggest release since we first launched Rentobo. 
