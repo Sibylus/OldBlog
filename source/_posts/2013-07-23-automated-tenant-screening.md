@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Announcing Automated Tenant Screening!
 comments: "true"
@@ -12,7 +12,7 @@ We’re proud to announce Rentobo’s Automated Tenant Screening - a better way 
 
 ### Free to Landlords, Managers, and Agents
 
-As of today, we have today Tenant Credit & Background Screening available to all Rentobo users at no additional charge.  Simply enable Tenant Screening on your new or existing listing and you will automatically receive complete credit and criminal conviction reports with all applications to your listing.  Renters pay a $35 application fee directly to Rentobo to cover the cost of the report, enabling us to make screening available at no additional cost to you.
+As of today, Tenant Credit & Background Screening is available to all Rentobo users at no additional charge.  Simply enable Tenant Screening on your new or existing listing and you will automatically receive complete credit and criminal conviction reports with all applications to your listing.  Renters pay a $35 application fee directly to Rentobo to cover the cost of the report, enabling us to make screening available at no additional cost to you.
 
 **Setting up Screening**
 
@@ -31,11 +31,11 @@ Once you receive applications to your listing, you can review the credit recomme
 
 Rentobo has integrated with TransUnion to provide the easiest, most secure way to receive credit and criminal history reports from your applicants. You can be up and running in the time it takes to check a box, with no additional configuration required. 
 
-Thanks to TransUnion's proprietary technology, Rentobo users can bypass the site inspection, lengthy approval process, and the myriad of other obstacles usually required by most credit data providers. Since we never store your applicants’ social security numbers and have partnered with one of the largest credit reporting agencies in the world, renters can rest easy knowing their information is in safe hands. It’s also way better for renters since the screening request is technically considered a “soft inquiry,” preventing a hit to their credit score.
+Thanks to TransUnion's proprietary technology, Rentobo users can bypass the site inspection, lengthy approval process, and the myriad of other obstacles usually required by most credit data providers. Since we never store your applicants’ social security numbers and have partnered with one of the largest credit reporting agencies in the world, renters can rest easy knowing their information is in safe hands. This process is also better for renters as all Rentobo screening reports are generated using a “soft inquiry,” which means unlike traditional credit inquiries there is no impact to the renters' credit scores.
 
 ### Improved Online Rental Applications
 
-We’ve added several new features and streamlined our [online rental application][2]. We’ve made it easier for groups of roommates or a prospect and a co-signer to apply with each other. As a landlord, you’re now notified when an application is started (in addition to completion), so you can follow up on the most promising leads right away. Now, on your Rentobo dashboard, you’re also presented with an Applications tab, where you can view application statuses and details across all of your listings at once.
+We’ve also added several new features and streamlined our [online rental application][2]. We’ve made it easier for groups of roommates or a prospect and a co-signer to apply with each other. We've improved our landlord notifications and added the ability for landlords to invite renters to apply directly through Rentobo. Finally, on your Rentobo dashboard you’re now presented with an Applications tab where you can view application statuses and details across all of your listings in one place. 
 
 If you're new to Rentobo, [create your first listing here][4], or if you have an existing account [sign in to get started!][5]
 
