@@ -26,8 +26,7 @@ Each one of these sites generate thousands of new eyes a day in most markets. Gr
 
 At Rentobo, we have made it incredibly easy to syndicate your listings. In just a few seconds, you can submit your listing to the most popular rental search sites on the web, simultaneously. This is how it works:
 
-Once you have created a listing using Rentobo, you can manage your marketing efforts by selecting the** Promote tab.**![Promote](/source/_posts/rsz_2promote.png)
+Once you have created a listing using Rentobo, you can manage your marketing efforts by selecting the** Promote tab.**![Promote](/source/_posts/rsz_2promote.jpg))
 
 Simply scroll to the bottom, and you will see a list of syndication partners to choose from. After that, just select the boxes corresponding to the sites you want to submit to, and click ‘Save Syndication Options.’
-![Save Syndication Options](/source/_posts/rsz_syndication_screenshot.png)
 That’s it! Once your selections have been saved, Rentobo will create and submit listings to the partners you have selected, where they will appear within 24-48 hours.
