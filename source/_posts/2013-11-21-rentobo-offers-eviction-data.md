@@ -16,7 +16,7 @@ Here’s how it works:
 
 When creating/editing your listings, you will now have 3 screening options.
 
-![New Screening Options](/source/_posts/Screening%20Options.PNG)
+{% img /images/screening_options.png %}
 
 The most comprehensive screening option includes the applicant supplied profile (employment history, rental history, references, etc...), a credit report (credit score + detailed history), criminal records, and eviction records. We recommend this option as it will provide you with all available information on the applicant so you can make the best possible application decision. If you select this option, each of your prospects will pay $45 to get their application processed.
 
