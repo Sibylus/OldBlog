@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: website | The Official Rentobo Blog | Rental Property Software]]></title>
+  <link href="http://www.rentobo.com/blog/categories/website/atom.xml" rel="self"/>
+  <link href="http://www.rentobo.com/blog/"/>
+  <updated>2014-04-09T17:37:29-07:00</updated>
+  <id>http://www.rentobo.com/blog/</id>
+  <author>
+    <name><![CDATA[Rentobo]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Rentobo Now Secure After Heartbleed Bug]]></title>
+    <link href="http://www.rentobo.com/blog/rentobo-now-secure-after-heartbleed/"/>
+    <updated>2014-04-09T00:00:00-07:00</updated>
+    <id>http://www.rentobo.com/blog/rentobo-now-secure-after-heartbleed</id>
+    <content type="html"><![CDATA[<p>Dear Rentobo Users,</p>
+
+<p>Late Monday night (Apr 7), a major website security vulnerability was announced in the open source library OpenSSL. OpenSSL powers SSL encryption (the secure HTTPS you sometimes see in your address bar) on more than two-thirds of all websites on the internet. To read more information about this vulnerability, now known as the “Heartbleed bug,” click <a href="http://gizmodo.com/heartbleed-why-the-internets-gaping-security-hole-is-1560812671">here</a>.</p>
+
+<p><strong>Rentobo is now secure.</strong> As of Tuesday night (Apr 8), Rentobo and our underlying service providers have performed all necessary updates to ensure secure communication.</p>
+
+<p>What does this mean for Rentobo users?</p>
+
+<p>While there is no evidence that Rentobo specifically has been compromised by the Heartbleed bug, the severe and relatively undetectable nature of this bug encourages us to be very cautious. We strongly recommend that all users change their passwords for Rentobo, as well as any other website where sensitive information is stored.</p>
+
+<p>For our tech-savvy users:</p>
+
+<ul>
+<li>As of 6:08pm Pacific, April 8th 2014, Rentobo’s hosting provider Heroku is reporting that all SSL endpoints have been updated to a secure, patched version of OpenSSL.</li>
+<li>Rentobo has updated the SSL private keys for all of our servers to protect against the possibility that existing keys were compromised.</li>
+<li>The <a href="http://www.heartbleed.com">heartbleed FAQ</a> provides a more in-depth and technical explanation of this incident.</li>
+</ul>
+
+
+<p>Moving forward, we want to assure our users that Rentobo continues to be a tool that landlords and brokers can feel confident using as a safe technology to help navigate the rental process. Security and transparency is our highest priority, and we will keep you informed on any future updates.</p>
+]]></content>
+  </entry>
+  
+</feed>

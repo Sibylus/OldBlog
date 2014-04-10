@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[The Official Rentobo Blog | Rental Property Software]]></title>
+  <link href="http://www.rentobo.com/blog/atom.xml" rel="self"/>
+  <link href="http://www.rentobo.com/blog/"/>
+  <updated>2014-04-09T17:37:29-07:00</updated>
+  <id>http://www.rentobo.com/blog/</id>
+  <author>
+    <name><![CDATA[Rentobo]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Rentobo Now Secure After Heartbleed Bug]]></title>
+    <link href="http://www.rentobo.com/blog/rentobo-now-secure-after-heartbleed/"/>
+    <updated>2014-04-09T00:00:00-07:00</updated>
+    <id>http://www.rentobo.com/blog/rentobo-now-secure-after-heartbleed</id>
+    <content type="html"><![CDATA[<p>Dear Rentobo Users,</p>
+
+<p>Late Monday night (Apr 7), a major website security vulnerability was announced in the open source library OpenSSL. OpenSSL powers SSL encryption (the secure HTTPS you sometimes see in your address bar) on more than two-thirds of all websites on the internet. To read more information about this vulnerability, now known as the “Heartbleed bug,” click <a href="http://gizmodo.com/heartbleed-why-the-internets-gaping-security-hole-is-1560812671">here</a>.</p>
+
+<p><strong>Rentobo is now secure.</strong> As of Tuesday night (Apr 8), Rentobo and our underlying service providers have performed all necessary updates to ensure secure communication.</p>
+
+<p>What does this mean for Rentobo users?</p>
+
+<p>While there is no evidence that Rentobo specifically has been compromised by the Heartbleed bug, the severe and relatively undetectable nature of this bug encourages us to be very cautious. We strongly recommend that all users change their passwords for Rentobo, as well as any other website where sensitive information is stored.</p>
+
+<p>For our tech-savvy users:</p>
+
+<ul>
+<li>As of 6:08pm Pacific, April 8th 2014, Rentobo’s hosting provider Heroku is reporting that all SSL endpoints have been updated to a secure, patched version of OpenSSL.</li>
+<li>Rentobo has updated the SSL private keys for all of our servers to protect against the possibility that existing keys were compromised.</li>
+<li>The <a href="http://www.heartbleed.com">heartbleed FAQ</a> provides a more in-depth and technical explanation of this incident.</li>
+</ul>
+
+
+<p>Moving forward, we want to assure our users that Rentobo continues to be a tool that landlords and brokers can feel confident using as a safe technology to help navigate the rental process. Security and transparency is our highest priority, and we will keep you informed on any future updates.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Rentobo Now Offers Eviction Data]]></title>
+    <link href="http://www.rentobo.com/blog/rentobo-offers-eviction-data/"/>
+    <updated>2013-11-21T00:00:00-08:00</updated>
+    <id>http://www.rentobo.com/blog/rentobo-offers-eviction-data</id>
+    <content type="html"><![CDATA[<p>Selecting a tenant is the most important decision you will make managing a rental. It’s far easier to deny an unqualified application than to <a href="http://www.rentobo.com/blog/ethical-challenges-of-being-a-landlord/">evict a renter</a>, so it’s important to know what you’re getting into up front. You don’t want to end up with a nightmare tenant! Sound stressful? Don’t worry, Rentobo’s got your back.</p>
+
+<p>The more useful information you have, the more informed a decision you can make. That’s why we are proud to announce that starting today you have the option to automatically search TransUnion’s national database of eviction records when renters apply with Rentobo! Just one more way you’re protected by using our first-rate tool for marketing your listing and screening potential renters.</p>
+
+<p>Here’s how it works:</p>
+
+<p>When creating/editing your listings, you will now have 3 screening options.</p>
+
+<p><img src="http://oblog.rentobo.com/images/screening_options.png"></p>
+
+<p>The most comprehensive screening option includes the applicant supplied profile (employment history, rental history, references, etc&#8230;), a credit report (credit score + detailed history), criminal records, and eviction records. We recommend this option as it will provide you with all available information on the applicant so you can make the best possible application decision. If you select this option, each of your prospects will pay $45 to get their application processed.</p>
+
+<p>If you are not interested in receiving evictions records, you can select our middle option. With this option you will receive the same comprehensive credit history and criminal records check you have come to expect from Rentobo, and your prospects will pay only a $35 application fee.</p>
+
+<p>Like to live dangerously?  You can disable tenant screening altogether and still use Rentobo to receive basic applications to your listing with no cost to your applicants. With this option applications will include only the  information submitted by the applicant themselves. Still, we highly recommend that you run a screening report on each one of your prospects, no matter how great they seem to be. When it comes to tenants, nobody wants surprises.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Benefits of Syndicating Your Listing]]></title>
+    <link href="http://www.rentobo.com/blog/benefits-of-listing-syndication/"/>
+    <updated>2013-07-30T00:00:00-07:00</updated>
+    <id>http://www.rentobo.com/blog/benefits-of-listing-syndication</id>
+    <content type="html"><![CDATA[<p>Marketing a rental listing is about getting exposure, which will draw prospects to your unit. When generating interest for your listing, a lot of property owners will settle for “good enough.” Unfortunately, if you settle for promoting your unit “just on craigslist,” for example, you really limit your audience. Here we present the case for syndicating your listings across multiple search sites.</p>
+
+<h3>It&#8217;s Faster</h3>
+
+<p>Most property owners agree that displaying their listings in more than one place is beneficial. However, manually visiting each website individually to post their listings is hard to manage and time consuming. With multiple listings and properties, the problem is magnified greatly.</p>
+
+<p>So if your time is precious, like all professionals and property owners, you’ve probably wished there was a better way. When you syndicate your listing using a syndication platform, such as <a href="http://www.rentobo.com">Rentobo</a>, you can actually submit your listing to multiple search sites at the same time. This will save you a lot of time and give you more time to work on other areas of your business.</p>
+
+<h3>It’s Efficient</h3>
+
+<p>In the real estate and rental markets, the term <a href="http://www.thefreedictionary.com/Syndication">syndication</a> has taken on a whole new meaning. When you choose to market your listing using a syndication platform such as Rentobo, you choose to let a multitude of real estate rental search sites, such as Zillow, Apartable, and Lovely, promote a common interest by displaying your listings. This is truly a powerful thing when you think about it.</p>
+
+<p>Each one of these sites generate thousands of new eyes a day in most markets. Granted, some of those site visitors of Zillow may have come from craigslist. However, if a rental prospect has viewed your listing on multiple listing sites, they are more likely to click on it. Now, instead of posting on one site over and over again, you are able to provide multiple impressions through one piece of effort. That’s efficient.</p>
+
+<h3>It’s Easy</h3>
+
+<p>At Rentobo, we have made it incredibly easy to syndicate your listings. In just a few seconds, you can submit your listing to the most popular rental search sites on the web, simultaneously. This is how it works:</p>
+
+<p>Once you have created a listing using Rentobo, you can manage your marketing efforts by selecting the<strong> Promote tab.</strong></p>
+
+<p>Simply scroll to the bottom, and you will see a list of syndication partners to choose from. After that, just select the boxes corresponding to the sites you want to submit to, and click ‘Save Syndication Options.’
+That’s it! Once your selections have been saved, Rentobo will create and submit listings to the partners you have selected, where they will appear within 24-48 hours.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Announcing Automated Tenant Screening!]]></title>
+    <link href="http://www.rentobo.com/blog/automated-tenant-screening/"/>
+    <updated>2013-07-23T00:00:00-07:00</updated>
+    <id>http://www.rentobo.com/blog/automated-tenant-screening</id>
+    <content type="html"><![CDATA[<p>It’s been an exciting few months for Rentobo. Our team has been hard at work making improvements and implementing new features to bring you the biggest release since we first launched Rentobo.</p>
+
+<p>We’re proud to announce Rentobo’s Automated Tenant Screening - a better way to find the best tenant for your rental properties, along with numerous other improvements to our application process and Rentobo overall.</p>
+
+<h3>Free to Landlords, Managers, and Agents</h3>
+
+<p>As of today, Tenant Credit &amp; Background Screening is available to all Rentobo users at no additional charge.  Simply enable Tenant Screening on your new or existing listing and you will automatically receive complete credit and criminal conviction reports with all applications to your listing.  Renters pay a $35 application fee directly to Rentobo to cover the cost of the report, enabling us to make screening available at no additional cost to you.</p>
+
+<p><strong>Setting up Screening</strong></p>
+
+<p>To receive screening reports for your new or existing listing, select the <strong>“Enable TransUnion tenant screening reports”</strong> checkbox on the new “Credit &amp; Background Screening” page of your listing configuration.  Answer a few questions about your property and prospective tenants (so we can provide customized creditworthiness recommendations), save your changes, and we’ll do the rest.</p>
+
+<p><a href="http://oblog.rentobo.com/images/Screening_Screenshot_2_large.png"><img class="right" src="http://oblog.rentobo.com/images/Screening_Screenshot_2_thumb.png" alt="Rentobo Tenant Screening"></a>
+<a href="http://oblog.rentobo.com/images/Screening_Screenshot_1_large.png"><img class="right" src="http://oblog.rentobo.com/images/Screening_Screenshot_1_thumb.png" alt="Rentobo Tenant Screening"></a></p>
+
+<p>For more information check out our <a href="http://oblog.rentobo.com/images/Credit_Screening_Getting_Started.pdf">Getting Started Guide</a>.</p>
+
+<p><strong>Reviewing Credit Recommendations and Reports</strong></p>
+
+<p>Once you receive applications to your listing, you can review the credit recommendation and full credit and criminal history details under each application.</p>
+
+<h3>A Better Way to Screen Tenants</h3>
+
+<p>Rentobo has integrated with TransUnion to provide the easiest, most secure way to receive credit and criminal history reports from your applicants. You can be up and running in the time it takes to check a box, with no additional configuration required.</p>
+
+<p>Thanks to TransUnion&#8217;s proprietary technology, Rentobo users can bypass the site inspection, lengthy approval process, and the myriad of other obstacles usually required by most credit data providers. Since we never store your applicants’ social security numbers and have partnered with one of the largest credit reporting agencies in the world, renters can rest easy knowing their information is in safe hands. This process is also better for renters as all Rentobo screening reports are generated using a “soft inquiry,” which means unlike traditional credit inquiries there is no impact to the renters&#8217; credit scores.</p>
+
+<h3>Improved Online Rental Applications</h3>
+
+<p>We’ve also added several new features and streamlined our <a href="http://www.rentobo.com/blog/benefits-of-online-rental-applications/">online rental application</a>. We’ve made it easier for groups of roommates or a prospect and a co-signer to apply with each other. We&#8217;ve improved our landlord notifications and added the ability for landlords to invite renters to apply directly through Rentobo. Finally, on your Rentobo dashboard you’re now presented with an Applications tab where you can view application statuses and details across all of your listings in one place.</p>
+
+<p>If you&#8217;re new to Rentobo, <a href="http://www.rentobo.com/quickstart">create your first listing here</a>, or if you have an existing account <a href="https://www.rentobo.com/users/sign_in">sign in to get started!</a></p>
+
+<p><strong> <a href="http://business.ftc.gov/documents/bus49-using-consumer-reports-what-landlords-need-know">Learn More About Using Consumer Credit Reports under the FCRA</a> </strong></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[4 Tips For New Landlords]]></title>
+    <link href="http://www.rentobo.com/blog/4-tips-for-new-landlords/"/>
+    <updated>2013-07-02T00:00:00-07:00</updated>
+    <id>http://www.rentobo.com/blog/4-tips-for-new-landlords</id>
+    <content type="html"><![CDATA[<p>So you have taken the plunge, and become a new landlord! Maybe you decided to rent out a spare bedroom in your house, or you have acquired your first rental property. Being a landlord is no cakewalk, so hopefully you’ve done your research before taking the plunge. Just in case, here are some checklist items to make sure your business gets started on the right foot.</p>
+
+<h3>Join A Landlord Association</h3>
+
+<p>Many new landlords are in business for themselves&#8212;by themselves. If this is you, joining an association <a href="http://www.rentobo.com/blog/renting-property-join-a-landlord-association/">can have many benefits</a>. You can stay up to date on the local and national laws, news, and the best practices in your market. You can get invaluable insights from more veteran property owners. You can get the scoop on which vendors to use, and which ones to avoid. For example, there are a lot of different associations throughout Chicagoland and the state of Illinois, and a listing of these organizations can be found <a href="http://www.thelpa.com/lpa/associations/illinois.html">here</a>.</p>
+
+<h3>Decide How Much You’re Willing To DIY</h3>
+
+<p>Being a landlord can be a very hands on or automated business depending on how you manage it. Many property owners will go so far as handling maintenance requests by themselves! However, if you aren’t a professional handyman, you need to figure out how you’re going to quickly and efficiently handle repairs. We talk about the <a href="http://www.rentobo.com/blog/responding-quickly-to-maintenance-requests/">importance of handling requests well</a>, and with the right system in place, you will have happier renters and a more profitable business.</p>
+
+<h3>Realize That You Might Get A Bad Renter</h3>
+
+<p>Even the best property owners and managers will have a few renters that are less than ideal. The most common violation that you will face will be late or unpaid rent. Most renters have good intentions when they enter into a lease agreement, but financial situations change, and not everyone is <a href="http://money.cnn.com/2011/05/24/news/economy/americans_lack_emergency_funds/index.htm">prepared for them</a>. We would also recommend you come up with a set policy for noise disturbances and property costs beyond normal wear and tear on your unit.</p>
+
+<h3>Use Rentobo To Find Your First Renters</h3>
+
+<p>Rentobo is a great resource for finding your next renter, whether you are an industry novice or pro. Our simple to use tool will allow you to create a listing and promote your property to craigslist and other major rental search sites simultaneously. Once prospects decide that they are interested, <a href="http://www.rentobo.com">Rentobo</a> allows you to accept applications from them online. Our screening feature (currently in beta) enables you to receive full credit reports complete with scores and criminal background history.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Renting Property? Join a Landlord Association]]></title>
+    <link href="http://www.rentobo.com/blog/renting-property-join-a-landlord-association/"/>
+    <updated>2013-06-19T00:00:00-07:00</updated>
+    <id>http://www.rentobo.com/blog/renting-property-join-a-landlord-association</id>
+    <content type="html"><![CDATA[<p>There are a lot of DIY landlords out there. Some property owners got into the business as a way to generate some extra cushion on their monthly expenses; others wanted to replace their job. Many times, a sole proprietor wants to run their business in peace, without brokers or outside property management firms getting in the way. No matter what the circumstances of your business as a landlord; it is always good to join a good landlord association in your area. Here are a few reasons why you should.</p>
+
+<h3>Stay Up To Date On Laws and Restrictions</h3>
+
+<p>Many conflicts between landlords and their tenants occurred not as a result of neglect, but of misinformation. As a landlord, misinformation can mean disaster for your business. However, even if you actively educate yourself, certain new rules and regulations in your market can slip through the cracks. A great way to avoid this dilemma is to join an association.</p>
+
+<p>The benefit here is obvious. You have a community of people as opposed to one, all with the same purpose of adhering to the laws and restrictions of their markets. Many sources are better than one when it comes to protecting your business by being knowledgeable.</p>
+
+<p><strong>Related: <a href="http://www.rentobo.com/blog/importance-of-up-to-date-leases/">The Importance of Up-To-Date Leases and Agreements</a></strong></p>
+
+<h3>Learn About New Trends</h3>
+
+<p>The rental industry is always changing. How people find and sign apartments and leases is different from how how did it 20 years ago, and being part of an association will help you keep tabs on what’s going on.</p>
+
+<p>In addition to knowing your laws, it can be beneficial to follow known best practices in your market. For instance, if you charge $80 per applicant, but the typical application runs closer to $40 in your area, it is better to have this information rather than alienate yourself from additional prospects.</p>
+
+<h3>Networking</h3>
+
+<p>A great way to connect with people that can actually help your business is by being a part of a community with the same agenda as you. In a landlord association, the ‘salesmen’ are going to be limited, so as a landlord, you can network freely and without limitation. Some of the best partnerships occur when people that had no intention of working with someone else suddenly put their heads together.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Guest Post: How to Manage Your Bills Properly as a Tenant]]></title>
+    <link href="http://www.rentobo.com/blog/how-to-properly-manage-your-bills/"/>
+    <updated>2013-06-04T00:00:00-07:00</updated>
+    <id>http://www.rentobo.com/blog/how-to-properly-manage-your-bills</id>
+    <content type="html"><![CDATA[<p><img class="right" src="http://oblog.rentobo.com/images/image01.png" width="315" height="185">
+Do you dread opening your mailbox? Does that stack of bills pile up every month until it becomes an unmanageable heap? An apartment comes with a multitude of different expenses. Besides paying your rent each month, you most likely have to pay your utility bills, which include gas, electric, heat, cable, internet and any other expenses you are responsible for in your building.</p>
+
+<p>Every month I have to keep up-to-date on my utility bills as well as my credit card bill, tuition payment, and rent. Keeping everything in order and paid on time took awhile to get a handle on. Let’s just say I had to pay a few late fees! Here are some tips on how to manage these monthly bills and make it to the end of the month without any extra fees.</p>
+
+<h3>1. Stay Organized</h3>
+
+<p>My problem is keeping everything organized. With so many bills to pay each month, the biggest challenge I face is just keeping everything in order. Once I started organizing all of my bills and keeping track of what I owed, my life became infinitely easier and my checking account a little heavier. My biggest piece of advice would be to stay organized and always know what you owe.</p>
+
+<h3>2. Process Your Mail Right Away</h3>
+
+<p>I used to let my mail sit for days (and to be truthful, weeks) when I brought it in from the mailbox. One time my mail piled so high that I accidentally threw my electric bill away with a bunch of old take-out menus and forgot to pay it that month. Now I go through my mail daily and separate the bills from the junk mail.</p>
+
+<h3>3. Keep Your Bills in a Designated Place</h3>
+
+<p>It’s easier to stay organized when everything is in one place. I keep mine in the top drawer of my desk and at the end of the month when the bills need to be paid I put them in a basket by the front door so I never forget them on my way out in the morning.</p>
+
+<h3>4. Designate a Specific Time to Pay Your Bills</h3>
+
+<p>Procrastination never helped me in school and it certainly hasn’t helped when it comes to paying bills. I’ve learned that if I set time aside each month, I’m less stressed out. I usually set time aside on the weekend when I have less going on to pay my bills and review my bank balance.</p>
+
+<h3>5. Pay Your Bills Online</h3>
+
+<p>Almost every utility company and bank offers you the ability to pay your bills online. Paying online is more convenient and saves you the trip of having to walk to the mailbox. If you’re a tenant, go one step further and see if your <a href="http://www.williampaid.com/collect-rent-online">landlord</a> will let you <a href="http://www.williampaid.com/pay-rent-online">pay your rent online</a>. It’s one less bill you will have to worry about keeping track of at the end the of the month. As a landlord, Rentobo is in the process of creating a way for you to accept payments online. You can stay up to date by <a href="http://www.rentobo.com">joining our mailing list</a>.</p>
+
+<p><em>Submitted by WilliamPaid.com. WilliamPaid lets renters &amp; roomies pay rent online, automatically, with more flexibility and it&#8217;s FREE. Users can also build credit with each rent payment.</em></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Is Your Rental Property Up To Code?]]></title>
+    <link href="http://www.rentobo.com/blog/is-your-rental-property-up-to-code/"/>
+    <updated>2013-05-23T00:00:00-07:00</updated>
+    <id>http://www.rentobo.com/blog/is-your-rental-property-up-to-code</id>
+    <content type="html"><![CDATA[<p>No tenant should have to wonder whether or not they live in a safe building. However, there are countless stories which prove that not all rental property is safe. A common issue is that many <a href="http://the-accidental-landlord.com/">“accidental landlords”</a> aren’t educated on what makes a building up to code, which can lead to problems down the road. Also, municipalities across the country are having <a href="http://realestate.msn.com/article.aspx?cp-documentid=20171382">trouble keeping up</a> with routine health, safety and fire inspections which only adds to the problem. You should check your local jurisdiction for the most up-to-date laws, but safety should never be an option, so here are some ways to get started.</p>
+
+<h3>Check for obvious fire hazards</h3>
+
+<p>The most common household disaster is <a href="http://www.redcross.org/news/article/Home-Fires-Biggest-Disaster-Threat-in-US">due to fire</a>. Again, check your local jurisdiction, but some common issues to look for include:</p>
+
+<ul>
+<li>Lack of a sufficient fire extinguisher</li>
+<li>Bad or faulty electric wiring</li>
+<li>Lack of a working smoke detector</li>
+<li>Objects that obstuct or block emergency exits</li>
+</ul>
+
+
+<p>Fire prevention is often the job of both the tenant and the landlord. The best way to ensure people are being safe is to educate them. To do this, provide your new/current tenants with a simple pamphlet from your local fire department on how to stay safe.</p>
+
+<p><strong>See Also:</strong> <a href="http://www.rentobo.com/blog/why-tenants-should-get-renters-insurance/">Why Tenant&#8217;s Should Have Renter&#8217;s Insurance</a></p>
+
+<h3>Have a professional take a look</h3>
+
+<p>Very few property owners or managers are properly qualified to inspect a property. Rather than banking on a routine inspection, be proactive&#8212;<em>especially</em> if your tenants start to complain. To the untrained, it can be difficult to tell if a crack on the side of the building is cosmetic or dangerous. Also, a good inspector can give you a timeline for when something may need to be updated or replaced, so you can plan ahead. Many disasters and lawsuits can be avoided if you don’t neglect the safety of your property by spending the extra money for a proper inspection.</p>
+
+<h3>Make sure renovations are completed by a professional</h3>
+
+<p>The reasons for this should be obvious. If you’ve ever watched the show <a href="http://www.hgtv.com/holmes-inspection/show/index.html">Holmes Inspection</a>, you will have gotten a glimpse of the pitfalls of a bad home installation or inspection. Rather than potentially throwing your money down the drain, make sure that the vendor you choose is proven and trustworthy. Don’t know where to start? <a href="http://www.angieslist.com">Angie’s List</a>, a vendor review service, and <a href="http://www.buildzoom.com">BuildZoom</a>, a locator service for general contractors, are great resources for finding the right company to get the job done.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Is Renovating Your Personal Rental Property Worth It?]]></title>
+    <link href="http://www.rentobo.com/blog/Is-renovating-your-personal-rental-property-worth-it/"/>
+    <updated>2013-05-14T00:00:00-07:00</updated>
+    <id>http://www.rentobo.com/blog/Is-renovating-your-personal-rental-property-worth-it</id>
+    <content type="html"><![CDATA[<p>Landlords who want to attract the best tenants and achieve low turnover rates know the importance of regular property maintenance, however, most property owners have difficulty deciding if they should invest in a major renovation on their personal rental property. When renting property, it can be tempting to simply leave your rental units alone, but doing the right renovations can maintain the value of your investment. You can also attract higher rent payments from stable tenants who are willing to pay a premium for a modern, updated rental apartment or home.</p>
+
+<h3>When Rental Property Renovations Make Sense</h3>
+
+<p>Doing renovations on personal rental property makes sense if you are looking to increase the rent payments, if you plan on selling the unit soon or you want to make major changes to attract more tenants. For example, if you consistently have trouble renting out a studio (bachelor) apartment, it might make sense to convert that unit into a one-bedroom to attract tenants who like the idea of having a traditional-style bedroom.</p>
+
+<p>See Also: <a href="http://www.rentobo.com/blog/affordable-tips-for-sprucing-up-your-rental/">The affordable way to renovate when renting property.</a></p>
+
+<h3>Research Before You Renovate</h3>
+
+<p>Before you decide to undertake any renovations, take the time to do some market research; check your area classified ads to see what style of units seem to be in high demand and which ones look difficult to rent out. Often small low-cost renovations, such as adding in-suite laundry, installing a dishwasher or upgrading the bathroom can allow you to command higher rents for your personal rental property.</p>
+
+<p>Another key factor in deciding whether or not personal rental property renovations are worth it is the time it will take you to recover your costs - for example, if you invest $3000 to improve the bathroom, how much will you need to raise the monthly rent to cover that cost (and will the market bear the higher rent)?</p>
+
+<h3>Timing Your Rental Renovations</h3>
+
+<p>The best time to upgrade your personal rental property is when you are between tenants - trying to do major renovations while the unit is occupied is a recipe for disaster. Anything that you or your contractors do that might be perceived as diminishing the habitability of the unit (such as temporary disruptions to the water or electrical service) can put you at risk of legal trouble from your current tenant.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Why Tenants Should Get Renter's Insurance]]></title>
+    <link href="http://www.rentobo.com/blog/why-tenants-should-get-renters-insurance/"/>
+    <updated>2013-05-09T00:00:00Z</updated>
+    <id>http://www.rentobo.com/blog/why-tenants-should-get-renters-insurance</id>
+    <content type="html"><![CDATA[<p>Homeowner’s insurance is required by any mortgagee and will cover the property itself, any outbuildings as well as the contents of the structure. Landlord’s insurance is required as well, and on top of the building and such being covered; the landlord will also be protected against lawsuits that may occur due to an accident on the property. However, what many tenants do not know is that landlord’s insurance does not cover their personal possessions. Unfortunately, when disasters occur, this lack of coverage can be a real shock to tenants. If this piece of information isn’t compelling enough, here are some other reasons why every tenant should obtain renter’s insurance.</p>
+
+<h3>It protects your belongings</h3>
+
+<p>As a tenant the most compelling and obvious reason for you to be insured is that it will protect your belongings. Landlord’s insurance will not. Policies differ as to whether they offer replacement coverage, which would pay the full cost of replacing an item, or whether the check is mailed out based off of current cash value. In other words, that $1,000 TV that you purchased 6-7 years ago at retail may get assessed and paid at a few hundred dollars instead of the full amount, depending on your coverage.</p>
+
+<p>A good renter’s insurance policy will cover a tenant for burglary as well as something more disastrous such as a fire or flood.</p>
+
+<h3>It prevents liability</h3>
+
+<p>Say one of your guests (or a plumber) trips over an extension cord in your unit, and breaks his ankle. If you get sued and you don’t have insurance, the odds are going to be stacked against you. If the guest trips on his way up the stairs, the landlord would potentially be liable. But because things such as furniture, extension cords and electronics are your property, you are legally obligated to cover those losses.</p>
+
+<p>Many renters are under the impression that if someone is injured in their unit, they will be covered by the landlord’s insurance. This could explain why <a href="http://abcnews.go.com/Business/survey-shows-renters-insurance/story?id=18685618#.UYlU1bWHv-s">two-thirds of renters</a> do not have insurance. If such a scenario occurs and you have renter’s insurance, the typical policy will cover any court award up to a <a href="http://abcnews.go.com/Business/survey-shows-renters-insurance/story?id=18685618#.UYlU1bWHv-s">$100,000 limit.</a></p>
+
+<h3>It’s inexpensive</h3>
+
+<p>Perhaps the most surprising thing about insuring your rental possessions is that it is inexpensive. The average renter’s policy only costs about <a href="http://abcnews.go.com/Business/survey-shows-renters-insurance/story?id=18685618#.UYlU1bWHv-s">$185 a year</a>. You can get $50,000 worth of coverage for about <a href="http://www.nytimes.com/2012/01/29/realestate/getting-started-a-word-to-the-wise-renter-insurance.html?_r=1&amp;">$300 a year</a>. Many policies will include some type of initial deductible should you need to file a claim, and cover any reasonable expenses thereafter. Some companies will also offer a discount should you bundle auto insurance with your policy.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Guest Post: How to be a Better Landlord (from a Renter's Perspective)]]></title>
+    <link href="http://www.rentobo.com/blog/how-to-be-a-better-landlord/"/>
+    <updated>2013-04-26T00:00:00-07:00</updated>
+    <id>http://www.rentobo.com/blog/how-to-be-a-better-landlord</id>
+    <content type="html"><![CDATA[<p><img class="right" src="http://oblog.rentobo.com/images/wp_lease_image.png" title="Rental Agreement Form" ></p>
+
+<p>When I went to look for my third apartment in the city, I started to learn that not
+only is it important to look for a great apartment and location but that finding a
+great <a href="http://www.williampaid.com/blog/index.php/2012/07/a-good-landlord-is-not-always-easy-to-find/">landlord</a> is equally as important. While “location, location, location” may be
+the universal mantra of real estate agents and renters, my own personal mantra
+during my apartment searches has been “landlord, landlord, landord!”
+After having three different landlords in the span of three years, I can hopefully shed
+some light on what landlords can do to better serve their renters.</p>
+
+<h3>Know the laws of the city you are leasing in</h3>
+
+<p>Each state and city has a landlord and tenant act that covers specific laws and
+regulations regarding rent, security deposits, tenant rights, evictions, etc. My first
+landlord printed a general Chicago <a href="http://www.williampaid.com/blog/index.php/2012/04/renting-an-apartment-top-10-questions-to-ask-a-landlord-before-signing-a-lease/">lease</a> and when my roommates and I asked
+questions about late fees and certain laws that we might have to abide by, she
+looked at us with a dumbstruck look of confusion. It was hard for us to take her
+seriously when she didn’t even know the basic laws that she as a landlord was
+expected to follow. Know the laws and be able to articulate them to your renters.</p>
+
+<h3>Customize the lease</h3>
+
+<p>Having a custom lease with personal instructions you want your renters to follow
+is always helpful. My one landlord did this and he had a ‘move-out rider” attached
+to the lease that detailed exactly what he wanted us to do when we moved out,
+complete with a checklist. This was a great way for us to know exactly what was
+expected of us so that our security deposit could be returned in full.</p>
+
+<h3>Listen to our concerns</h3>
+
+<p>One time both the front and back doors of my apartment building were broken and
+I promptly called my landlord to let him know that I wanted it fixed. I called on a
+Friday and no one came to fix either door until Monday morning. When it comes to
+matters of safety, a landlord should respond in a timely manner. This is especially
+important if the problem makes the apartment and your renters susceptible to
+harm and theft. If it’s something as little as a broken dishwasher or as serious as
+a broken front door, make sure you listen to your renter’s concerns and respond
+appropriately. And for the safety of us renters, quickly!</p>
+
+<h3>Be attentive (but respect our privacy!)</h3>
+
+<p>Be there when you‘re needed but don’t hover. The landlord in my first apartment
+kept some of her old things in our apartment and proceeded to let herself in to grab
+things whenever she needed. This is not only illegal but also definitely a violation
+of a renter’s privacy. Don’t barge in whenever you please. While we may be renting,
+this is our apartment for the duration of the lease. Plus, we could be just getting out
+of the shower!</p>
+
+<h3>Offer Online Rent Payments</h3>
+
+<p>Every landlord I’ve had has been very specific about how they want to receive rent.
+The easiest way for renters is to pay rent online. For landlords, this will ensure that
+rent is received on time each month. It is simple and convenient for renters and
+after all, doesn’t a happy renter make a happy landlord?</p>
+
+<p><em>Guest Post by WilliamPaid.com. WilliamPaid lets renters &amp; roomies pay rent online,
+automatically, with more flexibility and it&#8217;s FREE. Users can also build credit with each
+rent payment.</em></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Top 3 Cities to Rent vs. Buy]]></title>
+    <link href="http://www.rentobo.com/blog/top-3-cities-to-rent-vs-buy/"/>
+    <updated>2013-04-18T00:00:00-07:00</updated>
+    <id>http://www.rentobo.com/blog/top-3-cities-to-rent-vs-buy</id>
+    <content type="html"><![CDATA[<p>The average homeowner buys and sells a home <a href="http://homebuying.about.com/od/sellingahouse/qt/0207WhyMove.htm">every 5-7 years</a>, so it is important to examine the costs over that period of time. Across the country, it is now less expensive to <a href="http://www.huffingtonpost.com/jed-kolko/renting-vs-buying_b_1881185.html">buy a home versus renting one</a> (which is great for landlords looking to profit on their investment). However, if a 20% down payment, inability to obtain financing, or other reasons make homeownership not in the cards, there are some markets where renting could be far more attractive.</p>
+
+<h3>Methodology</h3>
+
+<p>We took the most recent averages for a market (home sales price and rent price for a 2 bedroom residence) and compiled data based off of the following terms:</p>
+
+<ul>
+<li>2 bedroom residence</li>
+<li>20% down payment</li>
+<li>3.5% mortgage interest</li>
+<li>Property tax for the listed market</li>
+<li>6 years of tenancy</li>
+<li>Other miscellaneous considerations, such as closing costs and maintenance costs (we used <a href="http://www.nytimes.com/interactive/business/buy-rent-calculator.html?_r=0">this tool</a> to help with our calculations).</li>
+</ul>
+
+
+<p>In addition to our input of raw data, we considered other more realistic factors, such as the typical “for sale” home being larger and more luxurious than the typical rental. With these factors in mind, we have put together three of the best cities you can live in if you are looking to rent instead of purchasing a home.</p>
+
+<p><strong><em>For Landlords:</em></strong> <a href="http://www.rentobo.com/blog/single-family-rental-investment/">The case for single-family rental investment</a></p>
+
+<h3>Manhattan, NY - (2 bedroom $850,000 sales price vs $3,650/mo rent)</h3>
+
+<p><em>$3,673 savings/year for renters</em></p>
+
+<p>Manhattan is a densely populated island, and is the most expensive of the five boroughs
+of New York. In addition to the towering skyscrapers already present there, there is constant new construction. Even so, the vacancy rate is hovering <a href="http://www.bloomberg.com/news/2013-01-10/manhattan-rent-hikes-slow-as-apartment-tenants-push-back.html">around 1.5%</a> due to improving employment in a notoriously high demand area.</p>
+
+<p>A modest 2 bedroom apartment in Manhattan will cost you around $850,000, which is much more comparable to the typical apartment for rent, but if you are looking for something more luxurious, expect your costs on either end to skyrocket (the actual average luxury 2 bedroom apartment was <a href="http://www.citi-habitats.com/media/pdf/Q2Report-2012.pdf">$1.25 million in 2012</a>).</p>
+
+<h3>San Francisco, CA - (2 bedroom $725,000 sales price vs $2,900/mo rent)</h3>
+
+<p><em>$2,081 savings/year for renters</em></p>
+
+<p>The temperate San Francisco climate and high salaries due to the tech industry have driven a large number of workers to a tiny geographical area (less than 47 square miles for over 800,000 people),  so in the last decade San Francisco has become a very expensive place to live. A lot of people looking to live in San Francisco-proper have opted instead to live in nearby San Jose or Oakland, where prices are cheaper but rising.</p>
+
+<p>San Francisco is a market with built-in demand and short supply, due to high population density but a shortage of skyscrapers. In fact, the only major US city with a higher population density in the entire US is New York.</p>
+
+<h3>Honolulu, HI - (2 bedroom $465,000 sales price vs $1,725/mo rent)</h3>
+
+<p><em>$446 savings/year for renters</em></p>
+
+<p>Honolulu, HI is an island &#8211; like Manhattan &#8211; that is as much a destination for tourists as it is a hometown for locals. Many homes purchased here are used for secondary or vacation homes, and that secondary market has added to the demand.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Why Tenant Screening is Important]]></title>
+    <link href="http://www.rentobo.com/blog/why-tenant-screening-is-important/"/>
+    <updated>2013-04-12T00:00:00-07:00</updated>
+    <id>http://www.rentobo.com/blog/why-tenant-screening-is-important</id>
+    <content type="html"><![CDATA[<p>As a landlord, there can be many reasons as to taking a lax approach to screening tenants. But it is better to be safe than sorry. Some property owners, particularly the ones with smaller portfolios, tend to be more relaxed until <em>after</em> they’ve been bitten by a bad tenant or two. Here are some of the reasons why you should always screen a tenant properly <em>before</em> you pay the consequence.</p>
+
+<h3>Past Evictions</h3>
+
+<p>While a standard rental agreement requires that a potential tenant provides photo ID, proves their US residency status, and passes a criminal background, eviction and credit check, many landlords will accept the photo ID and residency status as &#8220;good enough&#8221; without finishing the entire screening process. Which is to say, they may not even check to see if a tenant has had an eviction.</p>
+
+<p>Evictions are definitely a red flag, as they clearly show that at one point in time the tenant was legally required to vacate their residence. This can spell trouble down the line, especially if the potential tenant has had more than one eviction. By obtaining a credit report and eviction screening, the landlord will have the opportunity to discuss the past eviction with the potential tenant and make an informed decision based on the information they receive. This is a much better alternative to learning the hard way that a tenant isn&#8217;t who they claim to be.</p>
+
+<h3>Criminal Background Checks</h3>
+
+<p>Criminal background checks are also very important when it comes to potential tenants. Once again, it is ultimately up to the landlord to make the final decision, but learning of a potential tenant&#8217;s past criminal history can definitely be a deciding factor. If their criminal background check shows a history of theft or vandalism, they may not be the best candidate for tenancy. By learning beforehand, landlords can make their final decision based on facts rather than on instinct, saving themselves from potential trouble down the line.</p>
+
+<p><strong><em>See Also:</em></strong> <a href="http://www.rentobo.com/blog/importance-of-up-to-date-leases/">The Importance of Up-To-Date Leases</a></p>
+
+<h3>A Proper Denial Letter</h3>
+
+<p> Additionally, by obtaining the required reports, landlords can send a denial letter based on specific information that they found during the background investigation. If a landlord denies a tenant based on something that is not clearly stated in the tenant qualifications section of the application, they could find themselves in violation of the Fair Housing Act.</p>
+
+<h3>Take the Extra Steps</h3>
+
+<p>While taking the extra steps to follow through on background and credit checks may seem unnecessary to landlords if they have an overall good feeling about their potential tenant, it is always best to follow the rental procedure step by step. This way everyone has their bases covered, and if all goes well, both parties can look forward to a successful landlord/tenant relationship.</p>
+
+<h3>How To Get Started</h3>
+
+<p><a href="http://www.rentobo.com">Rentobo</a> is committed to making it simple for you find a quality tenant for your unit. We are currently in the process of integrating a full screening process into our platform.  If you would like to learn more, or participate in the beta release of this program, <a href="http://www.rentobo.com/tenant_screening">click here</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Case For Single-Family Rental Investment ]]></title>
+    <link href="http://www.rentobo.com/blog/single-family-rental-investment/"/>
+    <updated>2013-04-04T00:00:00-07:00</updated>
+    <id>http://www.rentobo.com/blog/single-family-rental-investment</id>
+    <content type="html"><![CDATA[<p>Last year, 367,000 single-family homes were sold in the US. This number is the highest since 2009, and nearly a 20% <a href="http://www.valueline.com/Markets/Commentary.aspx?id=14076">jump from 2011</a>. This is good news to participants in the housing market, but what are some of the economic drivers behind some of these purchases?</p>
+
+<p>Investment firms such as <a href="http://www.blackstone.com/">Blackstone Group</a> and <a href="http://data.cnbc.com/quotes/SBY">Silver Bay Realty Trust</a> have allocated billions of dollars of capital towards the single-family market, with a focus on distressed and/or bank-owned foreclosure properties. The purpose of this investment is to buy in bulk, renovate if necessary, and rent out their inventory while the housing market rebounds. Jade Rahmani, an analyst with KBW, says “By some accounts, $6-9 billion has been raised or committed, suggesting potential acquisitions of 40,000-90,000 properties.” This accounts for roughly 15% of unsold REO (real estate owned) <a href="http://www.cnbc.com/id/100366417">housing units</a>.</p>
+
+<p>Traditionally, a lot of real estate investment firms <a href="http://online.wsj.com/article/SB10001424127887324034804578346800317118568.html">had shied away from the single family market (paywall)</a> due to the complexities of managing geographically dispersed properties. We&#8217;re developing Rentobo&#8217;s next-generation <a href="http://www.rentobo.com">rental property management software platform</a> with this in mind; whether you&#8217;re a single family landlord or a large organization with hundreds or thousands of units under management, we&#8217;re building the best experience possible for finding and connecting with the best tenants for your property.</p>
+
+<p>That is a big number that actually helps the rental market more than the housing market. Houses are being purchased, but the a large number of their owners are renting them out instead of actually living in them. Non-investment homeownership in the <a href="http://www.census.gov/housing/hvs/files/qtr412/q412press.pdf">US is down to 65%</a>, which is the lowest it has been in 15 years. Consider these factors:</p>
+
+<ul>
+<li>When people lose their homes to foreclosures, <a href="http://www.forbes.com/sites/kenrapoza/2012/04/04/how-single-family-home-investing-can-save-the-housing-market/">60% end up renting a single-family home</a>, with another 23% renting an apartment.</li>
+<li>Over the last five years, foreclosures have caused over <a href="http://www.realestateeconomywatch.com/2012/04/single-family-rentals-now-exceed-multifamily/">3 million homeowners</a> and put them into the rental market.</li>
+<li>There are an estimated <a href="http://www.forbes.com/sites/kenrapoza/2012/04/04/how-single-family-home-investing-can-save-the-housing-market/2/">6.3 million Generation Y</a> aspiring renters that currently live with their friends or at home while they financially establish themselves in a tough job market. These kids are expected to enter the rental market within the next 5 years.</li>
+<li><a href="http://makinsensebabe.com/number-of-new-us-single-family-homes-sales-fell-in-december-2012-while-home-prices-rose-so-basically-nobody-can-afford-a-home/">22% of borrowers are are “underwater”</a> whereas a healthy economy would put that number at around 5%. For some of these people, without a lot of help, they will soon enter the rental market as well.</li>
+<li>The U.S. has solid demographics for homeownership, but new housing supply is <a href="http://www.blackstone.com/news-views/blackstone-blog/blackstone-creates-national-single-family-rental-home-platform">63% below the historical average.</a></li>
+</ul>
+
+
+<p>Indicators such as these are perhaps the reason why <a href="http://www.cnbc.com/id/46538421/Warren_Buffett_on_CNBC_I_d_Buy_Up_A_Couple_Hundred_Thousand_Single_Family_Homes_If_I_Could">Warren Buffett</a> said “I’d buy up a couple thousand single-family homes” if he found it reasonable to do so. He believes that if you do buy a single-family home in which to live, make sure you get a 30 year mortgage (to keep your monthly cash expenses minimized) and refinance when rates are better.</p>
+
+<p>For a family, a single-family unit is an attractive rental option. Families prefer to live in single-family units as opposed to large multi-family buildings. For property owners, these residents tend to be more stable and stay longer than a typical young single tenant.</p>
+
+<p>What all of this means is that now is a better time than ever to consider renting out a single-family homes and becoming a landlord. Rates are low, the demand is not only high but inevitable, and in most markets, current mortgage payments are <a href="http://www.businessinsider.com/monthly-rent-vs-monthly-mortgage-payment-2013-1">lower than rental premiums</a> (which means money in your pocket).</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Using Rentobo To Market Your Rental Property]]></title>
+    <link href="http://www.rentobo.com/blog/using-rentobo-to-market/"/>
+    <updated>2013-04-03T00:00:00-07:00</updated>
+    <id>http://www.rentobo.com/blog/using-rentobo-to-market</id>
+    <content type="html"><![CDATA[<p>Craigslist is one of the 10 highest ranking pages on the internet in the US, according to <a href="http://www.alexa.com/siteinfo/craigslist.org">alexa.com</a>. Naturally, when building Rentobo, we decided to make it as convenient as possible to post your listing there. But craigslist is only the beginning. Market analysts have determined that 70% or more of new renters begin their searches <a href="http://www.mynewplace.com/press-releases/magnetic-marketing-apartment-owners-can-snare-the-lions-share-of-renters-by-ramping-up-their-online-initiatives">online</a>. With that in mind, we built our promotions tool to capture as much of that market, as efficiently as possible.</p>
+
+<h3>How it works</h3>
+
+<p>The days of needing to be computer savvy to market your property are over. With Rentobo, even a novice can now market online by <a href="http://www.rentobo.com/howitworks">using it to promote their listings</a>.</p>
+
+<p>Using Rentobo, you can promote to craigslist and a host of other major rental search sites simultaneously and with just a few clicks. Unlike posting directly to craigslist, you can upload as many photos as you’d like. Once you have created a listing, Rentobo will automatically save it into your management dashboard in case you need to use it at a later date.</p>
+
+<p><strong>Related: <a href="http://www.rentobo.com/blog/Rentobo-makes-it-easier-for-you-to-post-to-craigslist/">Rentobo makes it even easier to post to craigslist</a></strong></p>
+
+<h3>Accepting applications</h3>
+
+<p>When you create and post a listing with Rentobo, prospective tenants can submit applications online. This way, you can receive information such as employment history, salary information and rental history before you ever speak with them on the phone or see them in person. A lot of landlords and brokers enjoy having this information before moving forward with a full credit and background screening.</p>
+
+<p>*We are also in the process of integrating full background and credit screening with Rentobo. If you would like to learn more and participate in our upcoming, limited beta program for this feature, click <a href="http://www.rentobo.com/tenant_screening">here</a>.</p>
+
+<h3>Getting started</h3>
+
+<p>Getting started is easy. Visit <a href="http://www.rentobo.com">Rentobo.com</a> and enter the address for your property on our home page. Our quick-start wizard will allow you to create a listing in just a few short minutes. The best part is that setting up and promoting your listing on Rentobo is free!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[4 Ways To Increase Property Revenue]]></title>
+    <link href="http://www.rentobo.com/blog/4-ways-to-increase-revenue/"/>
+    <updated>2013-03-28T00:00:00-07:00</updated>
+    <id>http://www.rentobo.com/blog/4-ways-to-increase-revenue</id>
+    <content type="html"><![CDATA[<p>Many landlords and property managers struggle to find ways to keep pace with the growing overhead costs of their rental properties such as increased utility bills, rising insurance premiums and the never-ending demands for maintenance. Here are 4 ways you can increase the revenue from your rental property:</p>
+
+<h3>Complete Simple Renovations</h3>
+
+<p>Tenants like rental units that look updated. By completing simple, low-cost renovations and improvements like painting the walls, updating the light fixtures and replacing the toilet, faucets and electrical switch plates you can breathe new life into a dated rental unit and help attract and retain tenants, reducing your turnover costs. However, try to stay away from low quality updates to your property. Tenants will notice this lack of quality as they continue to inhabit your unit, and they will be less likely to renew.</p>
+
+<h3>Perform Major Upgrades</h3>
+
+<p>If you want to attract premium tenants to your properties, you need to provide them with premium features. Include things like an in-suite washer/dryer, a dishwasher, off-street parking, storage and/or a security system. Consider investing in some capital improvements to your property to make your unit look and feel like a luxury rental. In return, you can charge premium rent for your snazzy, upgraded unit.</p>
+
+<p><strong>See Also</strong> <a href="http://www.rentobo.com/blog/affordable-tips-for-sprucing-up-your-rental/">Affordable Tips for Sprucing Up Your Rental</a></p>
+
+<h3>Raise The Rent</h3>
+
+<p>It sounds easy, but you should verify your units&#8217; rents are priced reasonably according to the local market and neighborhood.
+In most jurisdictions, regular rent increases are permitted. If you aren&#8217;t bothering to increase your rent in line with regulations, you&#8217;re leaving money on the table as inflation of maintenance services, regular upkeep and overhead expenses eat away from your bottom line.
+Perhaps more importantly, pay attention to similar units in your market.
+If your rent is noticeably lower, you probably will want to raise it.
+While rent increases tend to be unpopular with tenants, most expect their property owners to charge current market value for their properties.</p>
+
+<h3>Improve Customer Service</h3>
+
+<p>Happy tenants are stable tenants. Think of your tenants as your customers, like any customer-service based business, the better you are at providing great customer service, the more successful your business will be. By responding quickly to <a href="http://www.rentobo.com/blog/responding-quickly-to-maintenance-requests/">maintenance requests</a>, being courteous and presenting yourself in a professional manner (even when you get the dreaded 3 a.m. phone call) your tenants will respond by treating you with respect. They will be more likely to pay their rent on time, take care of their unit and stay put, all things that help to boost your bottom line.</p>
+
+<p>While increasing your rental income can seem like a daunting task, with a little effort and fine-tuning, you can raise the revenues of your rental or property management business.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Importance of Up-To-Date Leases and Agreements]]></title>
+    <link href="http://www.rentobo.com/blog/importance-of-up-to-date-leases/"/>
+    <updated>2013-03-26T00:00:00-07:00</updated>
+    <id>http://www.rentobo.com/blog/importance-of-up-to-date-leases</id>
+    <content type="html"><![CDATA[<p>In most cities, both local and state jurisdictions regulate important property management issues such as collecting and returning security deposits, rental rate increases and the terms of the tenancy. Landlords need to maintain current leases and rental agreements for all their units in order to qualify for protection under landlord-tenant laws as well as to protect them against any hassles that can arise during the tenancy.</p>
+
+<h3>The Basics of Rental Leases and Agreements</h3>
+
+<p>Property management can be a complex business - landlords need to deal with both financial issues (collecting rent) and human rights issues (such as anti-discrimination laws). While many successful, long-term landlord-tenant relationships are based on nothing more than a simple handshake, unless there is a compelling reason to skip the paperwork it&#8217;s always wise to get the rental terms in writing.</p>
+
+<h3>What Can Go Wrong</h3>
+
+<p>In the absence of a current rental agreement or an up-to-date lease, tenant complications or opportunistic scammers can wreak havoc on your property management business. Most tenants are decent, honest people, but you should take steps to protect yourself from professional scammers. There are some <a href="http://www.massrealestatelawblog.com/2012/02/19/massachusetts-landlords-be-aware-of-the-professional-tenant/">“professional tenants”</a> who are skilled at gaming the system by manipulating the rental laws to their advantage, causing their property owners and managers a great deal of grief and monetary loss.</p>
+
+<p>For example, if you don&#8217;t have a current, written lease, how can you prove the terms of the tenancy should you wind up in a legal battle? Unsavory tenants have been known to make wild claims against unsuspecting landlords in order to skip out on their rent, avoid paying for damages, or worse yet, to make a financial claim for damages against their landlord. A current rental agreement protects landlords and tenants by ensuring that all the terms of the tenancy are in writing. Everything related to the tenancy (particularly the financial details) should be covered in a lease or separate rider/addendum, such as the pet policy, amount and due date of rent and details about the security deposit and future rent increases.</p>
+
+<p>By keeping up-to-date rental agreements and leases on file for all your rental properties, you can set expectations with your tenants, protect yourself and your business in the event that something goes wrong, and reduce your chances of falling victim to scams.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Should You Rent to Friends?]]></title>
+    <link href="http://www.rentobo.com/blog/renting-to-friends/"/>
+    <updated>2013-03-22T00:00:00-07:00</updated>
+    <id>http://www.rentobo.com/blog/renting-to-friends</id>
+    <content type="html"><![CDATA[<p>One of the biggest dilemmas that every property owner may face is the question of whether or not to rent to their friends. On one hand, the idea of renting out a unit to a friend is very attractive; after all, these aren&#8217;t just people who you happen to know, they&#8217;re actually people who you like and trust. On the other hand, many people swear by the old adage that you shouldn&#8217;t mix business with pleasure, and many great friendships have been ruined when money muddies the waters.</p>
+
+<p>If you&#8217;re thinking of renting to your friends, here are three things you should consider:</p>
+
+<ol>
+<li><p>Why are you thinking of renting to friends? Perhaps you&#8217;re having a tough time finding good tenants for your unit and you see your friends as nice, responsible people who will make great tenants. Or perhaps you feel like you need to help your nomadic buddy out; after all, the poor guy can&#8217;t seem to catch a break when it comes to landlords - that&#8217;s why he&#8217;s moved 5 times in the last few years (right)?</p></li>
+<li><p>Can you wear both hats - friend and landlord? Renting to your friends means that you&#8217;ll need to collect rent from them, fix their toilet and confront them on any damage or disruptive behavior - are you up for that?</p></li>
+<li><p>Could you evict your friend? The unfortunate reality of the rental business is that sometimes things get ugly and property owners need to be the bad guy/gal and serve an eviction notice to a tenant. If that tenant happens to be a friend, could you do it?</p></li>
+</ol>
+
+
+<p>If you do opt to cross the friend-tenant boundary and rent to a friend, it&#8217;s important to maintain the same tenant screening standards that you would with anybody. Don&#8217;t give in to the urge to skip a credit check and forego references based on your friendship. Remember that no matter who you rent your unit to, your livelihood depends on your tenants paying their rent (in full and on time), maintaining the property in good order and behaving in a way that is respectful to both the other tenants in the building and the surrounding neighbors. Lay out these expectations up front and maintain them with your tenant/friend; this will help to both preserve your friendship and your business.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[When To Offer Rental Concessions]]></title>
+    <link href="http://www.rentobo.com/blog/when-to-offer-concessions/"/>
+    <updated>2013-03-19T00:00:00-07:00</updated>
+    <id>http://www.rentobo.com/blog/when-to-offer-concessions</id>
+    <content type="html"><![CDATA[<p>While property owners in high demand areas have less difficulty recruiting tenants, investors who own rental units in areas with high vacancy rates may need to offer rental concessions to both current and prospective tenants. If your rental property is located in an area where there are more vacancies than there are qualified tenants, providing perks to your renters can make the difference between maintaining your rental cash flow or having your units sit empty.</p>
+
+<h3>What Concessions Should You Offer?</h3>
+
+<p>A Los Angeles landlord recently made headlines with her unique rental concession; Sandy Zalegens, a property investor and animal rescue advocate, recently offered new tenants a $150 discount on their monthly $950 rent on the condition that they adopt Big Louie, a 80-pound Pit Bull dog who <a href="http://www.huffingtonpost.com/2012/08/17/pitbulls-landlord-discounts-rent_n_1790737.html">needed a home.</a></p>
+
+<p><strong>See Also:</strong> <a href="http://www.rentobo.com/blog/ethical-challenges-of-being-a-landlord/">Ethical Challenges of Being a Landlord</a></p>
+
+<p>Although Zalegens&#8217; concession did help her find a great tenant for her unit, most property owners cannot (and likely should not) be quite that creative when it comes to providing incentives to attract tenants. Nevertheless, it might not hurt to think ‘outside of the box’ when it comes to offering concessions. Consider what you can offer, focusing first on low-cost ideas such as allowing pets, providing free parking or including cable TV service. Enticing tenants by including utilities is another popular perk, as it saves them the hassle of activating their own utility accounts while the cost to the landlord is usually justified.</p>
+
+<h3>Concessions Can Help Improve Retention Rates</h3>
+
+<p>Rental concessions aren&#8217;t just for new tenants &#8212; by offering &#8220;loyalty rewards&#8221; to stable tenants, you will cut your vacancy rates as well as eliminate the costs associated with tenant turnover. Ongoing retention incentives can include deals like &#8220;pay 12 months, get the 13th month rent-free,&#8221; and discounted rates on laundry tokens and cards (if you offer a tenant laundry room). You can also research bulk discounts on sports tickets, fitness center passes and grocery gift cards to give as &#8220;thank you&#8221; gifts to stable tenants.</p>
+
+<p>The type of concessions you offer will depend on the demands of both your market and your tenants. The bottom line is that it is better to offer rental concessions for continued cash-flow than to have your rental properties remain vacant.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Maximizing Efficiency in Your Rental Business]]></title>
+    <link href="http://www.rentobo.com/blog/maximizing-efficiency-in-your-rental/"/>
+    <updated>2013-03-14T00:00:00-07:00</updated>
+    <id>http://www.rentobo.com/blog/maximizing-efficiency-in-your-rental</id>
+    <content type="html"><![CDATA[<p>The rental business is tough &#8211; even profitable landlords or property management firms can benefit from a closer inspection of rental marketing strategies, communication practices and rental listing advertising costs. Many owners or managers use inefficient processes to get the job done. Here are some tips to help you increase your bottom line from the inside out.</p>
+
+<h3>Promote correctly</h3>
+
+<p>There are two things to consider when optimizing your marketing efforts. You should keep your costs low (free if possible) and automate as much as you can. If you are using <a href="http://www.rentobo.com">Rentobo</a>, you can use our <a href="http://www.rentobo.com/benefits#exposure">listing syndication feature</a> to post simultaneously to multiple major rental search sites, including craigslist. This feature is completely free and we have gotten great feedback regarding the ease of use and the level of traffic generated. If you choose to supplement your marketing to other sources, stick with a strategy that will give you a proper return on your investment.</p>
+
+<h3>Communicate properly</h3>
+
+<p>When communicating with your prospects, don’t get too carried away. Use a couple lines of communication, but manage them well. In other words, you don’t need to leave your mobile, office, fax and email address in your listings. It can be difficult to respond quickly to initial inquiries if you have to check too many sources.</p>
+
+<p>Stick to a primary business phone and/or email address that you can access quickly and frequently. Sometimes an excited prospect can become a lost prospect because your response time wasn’t satisfactory. Communicate efficiently, and your prospects will recognize that you are on top of things and will be more likely to rent from you.</p>
+
+<h3>Trim the fat</h3>
+
+<p>More isn’t always better. Many profitable property owners and managers continue to invest in solutions that are unnecessary or do not perform well. There is no reason to generate 50 prospects if only 10 routinely provide high-quality tenants.</p>
+
+<p>Examine each one of your traffic sources. For instance, if you run print ads in the classifieds for your rental units, get a sense of how much traffic those ads are actually generating. A simple way to do this is to ask each one of your prospects where they saw your listing. You can keep track of which sources bring you the most and best leads by asking potential residents to fill out guest cards when they visit your property.</p>
+
+<p>Also, take an inventory of your other expenses and see where you can make changes. Does your landscaping company overcharge for subpar work? Do you spend too much money each time you run a credit screen? Even if you pass on some of these expenses to your tenants, they will appreciate the lower costs of a more efficient process.</p>
+
+<p>Maximizing efficiency is an ongoing process. The best methods available a decade ago may not be the effective methods for your business today. Many times, the difference between optimal and ‘good enough’ lies in your efficiency. With that in mind, make sure you consistently look for ways to improve.</p>
+]]></content>
+  </entry>
+  
+</feed>

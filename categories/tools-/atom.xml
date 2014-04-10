@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: tools, | The Official Rentobo Blog | Rental Property Software]]></title>
+  <link href="http://www.rentobo.com/blog/categories/tools-/atom.xml" rel="self"/>
+  <link href="http://www.rentobo.com/blog/"/>
+  <updated>2014-04-09T17:37:29-07:00</updated>
+  <id>http://www.rentobo.com/blog/</id>
+  <author>
+    <name><![CDATA[Rentobo]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Rentobo Now Offers Eviction Data]]></title>
+    <link href="http://www.rentobo.com/blog/rentobo-offers-eviction-data/"/>
+    <updated>2013-11-21T00:00:00-08:00</updated>
+    <id>http://www.rentobo.com/blog/rentobo-offers-eviction-data</id>
+    <content type="html"><![CDATA[<p>Selecting a tenant is the most important decision you will make managing a rental. It’s far easier to deny an unqualified application than to <a href="http://www.rentobo.com/blog/ethical-challenges-of-being-a-landlord/">evict a renter</a>, so it’s important to know what you’re getting into up front. You don’t want to end up with a nightmare tenant! Sound stressful? Don’t worry, Rentobo’s got your back.</p>
+
+<p>The more useful information you have, the more informed a decision you can make. That’s why we are proud to announce that starting today you have the option to automatically search TransUnion’s national database of eviction records when renters apply with Rentobo! Just one more way you’re protected by using our first-rate tool for marketing your listing and screening potential renters.</p>
+
+<p>Here’s how it works:</p>
+
+<p>When creating/editing your listings, you will now have 3 screening options.</p>
+
+<p><img src="http://oblog.rentobo.com/images/screening_options.png"></p>
+
+<p>The most comprehensive screening option includes the applicant supplied profile (employment history, rental history, references, etc...), a credit report (credit score + detailed history), criminal records, and eviction records. We recommend this option as it will provide you with all available information on the applicant so you can make the best possible application decision. If you select this option, each of your prospects will pay $45 to get their application processed.</p>
+
+<p>If you are not interested in receiving evictions records, you can select our middle option. With this option you will receive the same comprehensive credit history and criminal records check you have come to expect from Rentobo, and your prospects will pay only a $35 application fee.</p>
+
+<p>Like to live dangerously?  You can disable tenant screening altogether and still use Rentobo to receive basic applications to your listing with no cost to your applicants. With this option applications will include only the  information submitted by the applicant themselves. Still, we highly recommend that you run a screening report on each one of your prospects, no matter how great they seem to be. When it comes to tenants, nobody wants surprises.</p>
+]]></content>
+  </entry>
+  
+</feed>
