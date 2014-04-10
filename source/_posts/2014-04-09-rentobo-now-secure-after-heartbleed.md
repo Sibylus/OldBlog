@@ -3,7 +3,7 @@ published:
   - true
   - "true"
 layout: post
-title: Rentobo Now Secure After Heartbleed Bug
+title: Rentobo Security Update - Heartbleed Bug
 comments: "true"
 categories: "website security, heartbleed, ssl,"
 ---
